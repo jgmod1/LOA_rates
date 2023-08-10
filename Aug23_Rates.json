@@ -1,6 +1,6 @@
 [
  {
-  "Location_1": "Afghanistan",
+  "Country": "Afghanistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.77,
   "Unacc_Living_In": 20.33,
@@ -14,12 +14,13 @@
   "Child": 0.3,
   "Residual_Acc": 63.53,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Albania",
+  "Country": "Albania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22,
   "Unacc_Living_In": 14.08,
@@ -33,12 +34,13 @@
   "Child": 0.82,
   "Residual_Acc": 37.55,
   "Residual_Child": 0.82,
-  "secondCar": 3.19,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.19,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Algeria",
+  "Country": "Algeria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.41,
   "Unacc_Living_In": 11.78,
@@ -52,12 +54,13 @@
   "Child": 0.3,
   "Residual_Acc": 36.81,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Angola",
+  "Country": "Angola",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.86,
   "Unacc_Living_In": 33.19,
@@ -71,12 +74,13 @@
   "Child": 3.89,
   "Residual_Acc": 73.08,
   "Residual_Child": 3.89,
-  "secondCar": 4.63,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.63,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Anguilla",
+  "Country": "Anguilla",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.51,
   "Unacc_Living_In": 32.33,
@@ -90,12 +94,13 @@
   "Child": 3.78,
   "Residual_Acc": 71.23,
   "Residual_Child": 3.78,
-  "secondCar": 4.58,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.58,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Antigua & Barbuda",
+  "Country": "Antigua & Barbuda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.98,
   "Unacc_Living_In": 31.99,
@@ -109,12 +114,13 @@
   "Child": 3.53,
   "Residual_Acc": 72.09,
   "Residual_Child": 3.53,
-  "secondCar": 4.46,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.46,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Argentina",
+  "Country": "Argentina",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.78,
   "Unacc_Living_In": 17.78,
@@ -128,12 +134,13 @@
   "Child": 1.72,
   "Residual_Acc": 42,
   "Residual_Child": 1.72,
-  "secondCar": 3.61,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.61,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Armenia",
+  "Country": "Armenia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.27,
   "Unacc_Living_In": 18.73,
@@ -147,12 +154,13 @@
   "Child": 2.07,
   "Residual_Acc": 39.14,
   "Residual_Child": 2.07,
-  "secondCar": 3.78,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.78,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Ascension Island",
+  "Country": "Ascension Island",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.5,
   "Unacc_Living_In": 25.92,
@@ -166,12 +174,13 @@
   "Child": 4.21,
   "Residual_Acc": 53.44,
   "Residual_Child": 4.21,
-  "secondCar": 4.05,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.05,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Australia",
+  "Country": "Australia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.16,
   "Unacc_Living_In": 20.58,
@@ -185,12 +194,13 @@
   "Child": 3.28,
   "Residual_Acc": 44.33,
   "Residual_Child": 3.28,
-  "secondCar": 3.82,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.82,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.76,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Austria",
+  "Country": "Austria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.44,
   "Unacc_Living_In": 18.84,
@@ -204,12 +214,13 @@
   "Child": 2.2,
   "Residual_Acc": 41.36,
   "Residual_Child": 2.2,
-  "secondCar": 3.84,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.84,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.49,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Azerbaijan",
+  "Country": "Azerbaijan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
@@ -223,12 +234,13 @@
   "Child": 1.51,
   "Residual_Acc": 29.64,
   "Residual_Child": 1.51,
-  "secondCar": 3.52,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.52,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Bahamas",
+  "Country": "Bahamas",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 57.57,
   "Unacc_Living_In": 36.84,
@@ -242,12 +254,13 @@
   "Child": 4.13,
   "Residual_Acc": 82.56,
   "Residual_Child": 4.13,
-  "secondCar": 4.75,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.75,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Bahrain",
+  "Country": "Bahrain",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.06,
   "Unacc_Living_In": 29.48,
@@ -261,12 +274,13 @@
   "Child": 3.14,
   "Residual_Acc": 68.41,
   "Residual_Child": 3.14,
-  "secondCar": 4.28,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.28,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Dinar"
  },
  {
-  "Location_1": "Bangladesh",
+  "Country": "Bangladesh",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.36,
   "Unacc_Living_In": 19.43,
@@ -280,12 +294,13 @@
   "Child": 0.49,
   "Residual_Acc": 56.84,
   "Residual_Child": 0.49,
-  "secondCar": 3.04,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.04,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Barbados",
+  "Country": "Barbados",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.92,
   "Unacc_Living_In": 31.31,
@@ -299,12 +314,13 @@
   "Child": 3.47,
   "Residual_Acc": 70.48,
   "Residual_Child": 3.47,
-  "secondCar": 4.43,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.43,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Belarus",
+  "Country": "Belarus",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 13.26,
   "Unacc_Living_In": 8.49,
@@ -318,12 +334,13 @@
   "Child": 0.3,
   "Residual_Acc": 25.99,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Belgium",
+  "Country": "Belgium",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
@@ -337,12 +354,13 @@
   "Child": 2.72,
   "Residual_Acc": 39.96,
   "Residual_Child": 2.72,
-  "secondCar": 3.88,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.88,
+  "OMMA_TF": 0.48,
+  "OMMA_TP": 0.51,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Belize",
+  "Country": "Belize",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.1,
   "Unacc_Living_In": 21.18,
@@ -356,12 +374,13 @@
   "Child": 2.51,
   "Residual_Acc": 46.49,
   "Residual_Child": 2.51,
-  "secondCar": 3.43,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.43,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Belize Dollar"
  },
  {
-  "Location_1": "Bermuda",
+  "Country": "Bermuda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 77.99,
   "Unacc_Living_In": 49.91,
@@ -375,12 +394,13 @@
   "Child": 5.98,
   "Residual_Acc": 108.85,
   "Residual_Child": 5.98,
-  "secondCar": 5.61,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.61,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Bolivia",
+  "Country": "Bolivia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -394,12 +414,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Bosnia",
+  "Country": "Bosnia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.99,
   "Unacc_Living_In": 5.11,
@@ -413,12 +434,13 @@
   "Child": 1.58,
   "Residual_Acc": 17.47,
   "Residual_Child": 1.58,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": 0.82,
+  "OMMA_TP": 0.83,
+  "OMMA_CUR": "Marka"
  },
  {
-  "Location_1": "Botswana",
+  "Country": "Botswana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.15,
   "Unacc_Living_In": 3.94,
@@ -432,12 +454,13 @@
   "Child": 0.3,
   "Residual_Acc": 12.3,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Brazil",
+  "Country": "Brazil",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.39,
   "Unacc_Living_In": 10.49,
@@ -451,12 +474,13 @@
   "Child": 0.62,
   "Residual_Acc": 27.91,
   "Residual_Child": 0.62,
-  "secondCar": 3.1,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.1,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 2.62,
+  "OMMA_CUR": "R$"
  },
  {
-  "Location_1": "British Virgin Islands",
+  "Country": "British Virgin Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.89,
   "Unacc_Living_In": 38.33,
@@ -470,12 +494,13 @@
   "Child": 4.39,
   "Residual_Acc": 85.21,
   "Residual_Child": 4.39,
-  "secondCar": 4.86,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.86,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Brunei",
+  "Country": "Brunei",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 12.1,
@@ -489,12 +514,13 @@
   "Child": 1.24,
   "Residual_Acc": 23.89,
   "Residual_Child": 1.24,
-  "secondCar": 2.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.85,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.65,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Bulgaria",
+  "Country": "Bulgaria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.25,
   "Unacc_Living_In": 5.92,
@@ -508,12 +534,13 @@
   "Child": 1.71,
   "Residual_Acc": 19.95,
   "Residual_Child": 1.71,
-  "secondCar": 2.89,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.89,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Cambodia",
+  "Country": "Cambodia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.81,
   "Unacc_Living_In": 17.8,
@@ -527,12 +554,13 @@
   "Child": 1.01,
   "Residual_Acc": 47.61,
   "Residual_Child": 1.01,
-  "secondCar": 3.29,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.29,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Cameroon",
+  "Country": "Cameroon",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.93,
   "Unacc_Living_In": 33.88,
@@ -546,12 +574,13 @@
   "Child": 2.22,
   "Residual_Acc": 75.83,
   "Residual_Child": 2.22,
-  "secondCar": 3.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.85,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "XAF"
  },
  {
-  "Location_1": "Canada",
+  "Country": "Canada",
   "Sub_Location": "East",
   "Unacc_Living_Out": 36.61,
   "Unacc_Living_In": 24.43,
@@ -565,12 +594,13 @@
   "Child": 3.31,
   "Residual_Acc": 45.09,
   "Residual_Child": 3.31,
-  "secondCar": 4,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.7,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Canada",
+  "Country": "Canada",
   "Sub_Location": "West",
   "Unacc_Living_Out": 32.61,
   "Unacc_Living_In": 21.65,
@@ -584,12 +614,13 @@
   "Child": 3.19,
   "Residual_Acc": 39.43,
   "Residual_Child": 3.19,
-  "secondCar": 3.84,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.84,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.7,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Cape Verde",
+  "Country": "Cape Verde",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.18,
   "Unacc_Living_In": 5.24,
@@ -603,12 +634,13 @@
   "Child": 0.3,
   "Residual_Acc": 16.36,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Cayman Islands",
+  "Country": "Cayman Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 73.22,
   "Unacc_Living_In": 46.86,
@@ -622,12 +654,13 @@
   "Child": 5.46,
   "Residual_Acc": 103.39,
   "Residual_Child": 5.46,
-  "secondCar": 5.37,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.37,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Chad",
+  "Country": "Chad",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.31,
   "Unacc_Living_In": 30.28,
@@ -641,12 +674,13 @@
   "Child": 1.87,
   "Residual_Acc": 79.86,
   "Residual_Child": 1.87,
-  "secondCar": 3.68,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.68,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Chile",
+  "Country": "Chile",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.84,
   "Unacc_Living_In": 14.62,
@@ -660,12 +694,13 @@
   "Child": 1.12,
   "Residual_Acc": 36.83,
   "Residual_Child": 1.12,
-  "secondCar": 3.33,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.33,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 378,
+  "OMMA_CUR": "Peso"
  },
  {
-  "Location_1": "China",
+  "Country": "China",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.8,
   "Unacc_Living_In": 33.79,
@@ -679,12 +714,13 @@
   "Child": 3.02,
   "Residual_Acc": 81.78,
   "Residual_Child": 3.02,
-  "secondCar": 4.23,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.23,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 3.34,
+  "OMMA_CUR": "Renminbi"
  },
  {
-  "Location_1": "Columbia",
+  "Country": "Columbia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.34,
   "Unacc_Living_In": 7.9,
@@ -698,12 +734,13 @@
   "Child": 1.37,
   "Residual_Acc": 24.67,
   "Residual_Child": 1.37,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Congo DR",
+  "Country": "Congo DR",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.7,
   "Unacc_Living_In": 40.77,
@@ -717,12 +754,13 @@
   "Child": 3.28,
   "Residual_Acc": 101.56,
   "Residual_Child": 3.28,
-  "secondCar": 4.34,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.34,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Costa Rica",
+  "Country": "Costa Rica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.76,
   "Unacc_Living_In": 22.25,
@@ -736,12 +774,13 @@
   "Child": 2.52,
   "Residual_Acc": 49.63,
   "Residual_Child": 2.52,
-  "secondCar": 3.99,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.99,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Croatia",
+  "Country": "Croatia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.99,
   "Unacc_Living_In": 4.47,
@@ -755,12 +794,13 @@
   "Child": 0.38,
   "Residual_Acc": 10.84,
   "Residual_Child": 0.38,
-  "secondCar": 2.99,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.99,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Cuba",
+  "Country": "Cuba",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.91,
   "Unacc_Living_In": 19.14,
@@ -774,12 +814,13 @@
   "Child": 1.3,
   "Residual_Acc": 49.61,
   "Residual_Child": 1.3,
-  "secondCar": 3.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Cyprus",
+  "Country": "Cyprus",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.01,
   "Unacc_Living_In": 12.17,
@@ -793,12 +834,13 @@
   "Child": 1.84,
   "Residual_Acc": 24.3,
   "Residual_Child": 1.84,
-  "secondCar": 3.29,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.29,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.49,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Czech Republic",
+  "Country": "Czech Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.57,
   "Unacc_Living_In": 13.8,
@@ -812,12 +854,13 @@
   "Child": 2.47,
   "Residual_Acc": 30.22,
   "Residual_Child": 2.47,
-  "secondCar": 3.5,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.5,
+  "OMMA_TF": 11.93,
+  "OMMA_TP": 12.29,
+  "OMMA_CUR": "Czech Koruna"
  },
  {
-  "Location_1": "Denmark",
+  "Country": "Denmark",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.85,
   "Unacc_Living_In": 31.26,
@@ -831,12 +874,13 @@
   "Child": 3.77,
   "Residual_Acc": 67.75,
   "Residual_Child": 3.77,
-  "secondCar": 4.58,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.58,
+  "OMMA_TF": 3.32,
+  "OMMA_TP": 3.82,
+  "OMMA_CUR": "Kroner"
  },
  {
-  "Location_1": "Djibouti",
+  "Country": "Djibouti",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.51,
   "Unacc_Living_In": 38.09,
@@ -850,12 +894,13 @@
   "Child": 3.22,
   "Residual_Acc": 93.62,
   "Residual_Child": 3.22,
-  "secondCar": 4.32,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.32,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Dominica",
+  "Country": "Dominica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -869,12 +914,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Dominican Republic",
+  "Country": "Dominican Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.04,
   "Unacc_Living_In": 8.99,
@@ -888,12 +934,13 @@
   "Child": 0.86,
   "Residual_Acc": 21.26,
   "Residual_Child": 0.86,
-  "secondCar": 3.22,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.22,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "East Timor",
+  "Country": "East Timor",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
@@ -907,12 +954,13 @@
   "Child": 1.51,
   "Residual_Acc": 29.64,
   "Residual_Child": 1.51,
-  "secondCar": 3.52,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.52,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Ecuador",
+  "Country": "Ecuador",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.67,
   "Unacc_Living_In": 10.67,
@@ -926,12 +974,13 @@
   "Child": 1.07,
   "Residual_Acc": 24.87,
   "Residual_Child": 1.07,
-  "secondCar": 3.31,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.31,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Egypt",
+  "Country": "Egypt",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.59,
   "Unacc_Living_In": 11.26,
@@ -945,12 +994,13 @@
   "Child": 0.3,
   "Residual_Acc": 35.19,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 6.86,
+  "OMMA_CUR": "EGP"
  },
  {
-  "Location_1": "El Salvador",
+  "Country": "El Salvador",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.38,
   "Unacc_Living_In": 6,
@@ -964,12 +1014,13 @@
   "Child": 0.49,
   "Residual_Acc": 14.89,
   "Residual_Child": 0.49,
-  "secondCar": 3.04,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.04,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Eritrea",
+  "Country": "Eritrea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.23,
   "Unacc_Living_In": 25.75,
@@ -983,12 +1034,13 @@
   "Child": 2.96,
   "Residual_Acc": 57.14,
   "Residual_Child": 2.96,
-  "secondCar": 4.19,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.19,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Estonia",
+  "Country": "Estonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.62,
   "Unacc_Living_In": 14.48,
@@ -1002,12 +1054,13 @@
   "Child": 3.24,
   "Residual_Acc": 31.64,
   "Residual_Child": 3.24,
-  "secondCar": 3.54,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.54,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Ethiopia",
+  "Country": "Ethiopia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.8,
   "Unacc_Living_In": 26.75,
@@ -1021,12 +1074,13 @@
   "Child": 1.94,
   "Residual_Acc": 68.32,
   "Residual_Child": 1.94,
-  "secondCar": 3.72,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.72,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Falkland Islands",
+  "Country": "Falkland Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.07,
   "Unacc_Living_In": 32.04,
@@ -1040,12 +1094,13 @@
   "Child": 4.04,
   "Residual_Acc": 68.16,
   "Residual_Child": 4.04,
-  "secondCar": 4.7,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.7,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Fiji",
+  "Country": "Fiji",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.07,
   "Unacc_Living_In": 7.72,
@@ -1059,12 +1114,13 @@
   "Child": 0.17,
   "Residual_Acc": 22.77,
   "Residual_Child": 0.17,
-  "secondCar": 2.89,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.89,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Finland",
+  "Country": "Finland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.03,
   "Unacc_Living_In": 26.9,
@@ -1078,12 +1134,13 @@
   "Child": 3.22,
   "Residual_Acc": 58.49,
   "Residual_Child": 3.22,
-  "secondCar": 4.32,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.32,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "France",
+  "Country": "France",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.98,
   "Unacc_Living_In": 16.63,
@@ -1097,12 +1154,13 @@
   "Child": 2.09,
   "Residual_Acc": 33.13,
   "Residual_Child": 2.09,
-  "secondCar": 3.59,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.59,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.51,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Gambia",
+  "Country": "Gambia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.41,
   "Unacc_Living_In": 7.3,
@@ -1116,12 +1174,13 @@
   "Child": 0.3,
   "Residual_Acc": 22.81,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Georgia",
+  "Country": "Georgia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.73,
   "Unacc_Living_In": 13.27,
@@ -1135,12 +1194,13 @@
   "Child": 0.89,
   "Residual_Acc": 34.33,
   "Residual_Child": 0.89,
-  "secondCar": 3.23,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.23,
+  "OMMA_TF": 1.4,
+  "OMMA_TP": 1.4,
+  "OMMA_CUR": "Lari Gel"
  },
  {
-  "Location_1": "Germany",
+  "Country": "Germany",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26,
   "Unacc_Living_In": 16.64,
@@ -1154,12 +1214,13 @@
   "Child": 1.96,
   "Residual_Acc": 36.64,
   "Residual_Child": 1.96,
-  "secondCar": 3.71,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.71,
+  "OMMA_TF": 0.47,
+  "OMMA_TP": 0.49,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Ghana",
+  "Country": "Ghana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.84,
   "Unacc_Living_In": 13.34,
@@ -1173,12 +1234,13 @@
   "Child": 0.8,
   "Residual_Acc": 35.32,
   "Residual_Child": 0.8,
-  "secondCar": 3.18,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.18,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Gibraltar",
+  "Country": "Gibraltar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.17,
   "Unacc_Living_In": 7.15,
@@ -1192,12 +1254,13 @@
   "Child": 1.23,
   "Residual_Acc": 13.8,
   "Residual_Child": 1.23,
-  "secondCar": 3.17,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.17,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.4,
+  "OMMA_CUR": "Pound Sterling"
  },
  {
-  "Location_1": "Greece",
+  "Country": "Greece",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.07,
   "Unacc_Living_In": 20.52,
@@ -1211,12 +1274,13 @@
   "Child": 3.32,
   "Residual_Acc": 48.71,
   "Residual_Child": 3.32,
-  "secondCar": 3.69,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.69,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.49,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Grenada",
+  "Country": "Grenada",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.85,
   "Unacc_Living_In": 19.74,
@@ -1230,12 +1294,13 @@
   "Child": 2.21,
   "Residual_Acc": 44.29,
   "Residual_Child": 2.21,
-  "secondCar": 3.84,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.84,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Guam",
+  "Country": "Guam",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 43.1,
   "Unacc_Living_In": 27.58,
@@ -1249,12 +1314,13 @@
   "Child": 3.49,
   "Residual_Acc": 58.66,
   "Residual_Child": 3.49,
-  "secondCar": 4.44,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.44,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Guatemala",
+  "Country": "Guatemala",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.16,
   "Unacc_Living_In": 18.66,
@@ -1268,12 +1334,13 @@
   "Child": 1.29,
   "Residual_Acc": 48.15,
   "Residual_Child": 1.29,
-  "secondCar": 3.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Guinea",
+  "Country": "Guinea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.82,
   "Unacc_Living_In": 40.2,
@@ -1287,12 +1354,13 @@
   "Child": 4.76,
   "Residual_Acc": 88.09,
   "Residual_Child": 4.76,
-  "secondCar": 5.04,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.04,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Guyana",
+  "Country": "Guyana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.39,
   "Unacc_Living_In": 9.85,
@@ -1306,12 +1374,13 @@
   "Child": 0.97,
   "Residual_Acc": 23.12,
   "Residual_Child": 0.97,
-  "secondCar": 3.27,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.27,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Honduras",
+  "Country": "Honduras",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 11.53,
@@ -1325,12 +1394,13 @@
   "Child": 1.18,
   "Residual_Acc": 26.71,
   "Residual_Child": 1.18,
-  "secondCar": 3.36,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.36,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Hong Kong",
+  "Country": "Hong Kong",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 69.01,
   "Unacc_Living_In": 44.17,
@@ -1344,12 +1414,13 @@
   "Child": 4.79,
   "Residual_Acc": 100.21,
   "Residual_Child": 4.79,
-  "secondCar": 5.06,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.06,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Hungary",
+  "Country": "Hungary",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.66,
   "Unacc_Living_In": 7.46,
@@ -1363,12 +1434,13 @@
   "Child": 0.76,
   "Residual_Acc": 17.19,
   "Residual_Child": 0.76,
-  "secondCar": 3.16,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.16,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Iceland",
+  "Country": "Iceland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.66,
   "Unacc_Living_In": 30.5,
@@ -1382,12 +1454,13 @@
   "Child": 3.68,
   "Residual_Acc": 66.14,
   "Residual_Child": 3.68,
-  "secondCar": 4.54,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.54,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "India",
+  "Country": "India",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.51,
   "Unacc_Living_In": 12.49,
@@ -1401,12 +1474,13 @@
   "Child": 1.25,
   "Residual_Acc": 42.16,
   "Residual_Child": 1.25,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": 37.1,
+  "OMMA_TP": 36.53,
+  "OMMA_CUR": "Indian Rupee"
  },
  {
-  "Location_1": "Indonesia",
+  "Country": "Indonesia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
@@ -1420,12 +1494,13 @@
   "Child": 1.85,
   "Residual_Acc": 52.28,
   "Residual_Child": 1.85,
-  "secondCar": 3.21,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.21,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Iran",
+  "Country": "Iran",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -1439,12 +1514,13 @@
   "Child": 0.3,
   "Residual_Acc": 2.64,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Iraq",
+  "Country": "Iraq",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 37.64,
   "Unacc_Living_In": 24.09,
@@ -1458,12 +1534,13 @@
   "Child": 0.95,
   "Residual_Acc": 67.8,
   "Residual_Child": 0.95,
-  "secondCar": 3.26,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.26,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Irish Republic",
+  "Country": "Irish Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.92,
   "Unacc_Living_In": 17.23,
@@ -1477,12 +1554,13 @@
   "Child": 2,
   "Residual_Acc": 37.93,
   "Residual_Child": 2,
-  "secondCar": 3.75,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.75,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Israel",
+  "Country": "Israel",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.64,
   "Unacc_Living_In": 33.05,
@@ -1496,12 +1574,13 @@
   "Child": 3.66,
   "Residual_Acc": 74.39,
   "Residual_Child": 3.66,
-  "secondCar": 4.53,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.53,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Italy",
+  "Country": "Italy",
   "Sub_Location": "South",
   "Unacc_Living_Out": 28.09,
   "Unacc_Living_In": 17.98,
@@ -1515,12 +1594,13 @@
   "Child": 2.61,
   "Residual_Acc": 36.79,
   "Residual_Child": 2.61,
-  "secondCar": 3.51,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.51,
+  "OMMA_TF": 0.41,
+  "OMMA_TP": 0.43,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Italy",
+  "Country": "Italy",
   "Sub_Location": "North",
   "Unacc_Living_Out": 30.13,
   "Unacc_Living_In": 19.28,
@@ -1534,12 +1614,13 @@
   "Child": 2.81,
   "Residual_Acc": 38.11,
   "Residual_Child": 2.81,
-  "secondCar": 3.64,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.64,
+  "OMMA_TF": 0.41,
+  "OMMA_TP": 0.43,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Ivory Coast",
+  "Country": "Ivory Coast",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.35,
   "Unacc_Living_In": 20.7,
@@ -1553,12 +1634,13 @@
   "Child": 2.33,
   "Residual_Acc": 46.35,
   "Residual_Child": 2.33,
-  "secondCar": 3.9,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.9,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Jamaica",
+  "Country": "Jamaica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.76,
   "Unacc_Living_In": 17.13,
@@ -1572,12 +1654,13 @@
   "Child": 1.39,
   "Residual_Acc": 42.54,
   "Residual_Child": 1.39,
-  "secondCar": 3.47,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.47,
+  "OMMA_TF": 75.35,
+  "OMMA_TP": 79.11,
+  "OMMA_CUR": "Jamaican Dollar"
  },
  {
-  "Location_1": "Japan",
+  "Country": "Japan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.85,
   "Unacc_Living_In": 22.3,
@@ -1591,12 +1674,13 @@
   "Child": 2.24,
   "Residual_Acc": 52.06,
   "Residual_Child": 2.24,
-  "secondCar": 3.86,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.86,
+  "OMMA_TF": 58.68,
+  "OMMA_TP": 64.94,
+  "OMMA_CUR": "Yen"
  },
  {
-  "Location_1": "Jerusalem",
+  "Country": "Jerusalem",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 60.78,
   "Unacc_Living_In": 38.9,
@@ -1610,12 +1694,13 @@
   "Child": 3.41,
   "Residual_Acc": 75.95,
   "Residual_Child": 3.41,
-  "secondCar": 4.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Jordan",
+  "Country": "Jordan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.9,
   "Unacc_Living_In": 28.74,
@@ -1629,12 +1714,13 @@
   "Child": 3.79,
   "Residual_Acc": 70.21,
   "Residual_Child": 3.79,
-  "secondCar": 3.98,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.98,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Kazakhstan",
+  "Country": "Kazakhstan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.56,
   "Unacc_Living_In": 8.04,
@@ -1648,12 +1734,13 @@
   "Child": 0.08,
   "Residual_Acc": 24.51,
   "Residual_Child": 0.08,
-  "secondCar": 2.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.85,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Kenya",
+  "Country": "Kenya",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
@@ -1667,12 +1754,13 @@
   "Child": 1.27,
   "Residual_Acc": 34.88,
   "Residual_Child": 1.27,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Kenyan Shilling"
  },
  {
-  "Location_1": "Kiribati",
+  "Country": "Kiribati",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.57,
   "Unacc_Living_In": 6.76,
@@ -1686,12 +1774,13 @@
   "Child": 0.68,
   "Residual_Acc": 15.75,
   "Residual_Child": 0.68,
-  "secondCar": 3.13,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.13,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Korea (South",
+  "Country": "Korea (South",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.66,
   "Unacc_Living_In": 26.02,
@@ -1705,12 +1794,13 @@
   "Child": 4.77,
   "Residual_Acc": 61.9,
   "Residual_Child": 4.77,
-  "secondCar": 3.97,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.97,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Kosovo",
+  "Country": "Kosovo",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.54,
   "Unacc_Living_In": 7.39,
@@ -1724,12 +1814,13 @@
   "Child": 0.3,
   "Residual_Acc": 22.97,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Kuwait",
+  "Country": "Kuwait",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.04,
   "Unacc_Living_In": 28.19,
@@ -1743,12 +1834,13 @@
   "Child": 2.81,
   "Residual_Acc": 73.66,
   "Residual_Child": 2.81,
-  "secondCar": 3.63,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.63,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Kyrgyzstan",
+  "Country": "Kyrgyzstan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -1762,12 +1854,13 @@
   "Child": 0.3,
   "Residual_Acc": 4.28,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Latvia",
+  "Country": "Latvia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.06,
   "Unacc_Living_In": 16.04,
@@ -1781,12 +1874,13 @@
   "Child": 2.76,
   "Residual_Acc": 35.2,
   "Residual_Child": 2.76,
-  "secondCar": 3.46,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.46,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Lebanon",
+  "Country": "Lebanon",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 70.3,
   "Unacc_Living_In": 44.99,
@@ -1800,12 +1894,13 @@
   "Child": 2.77,
   "Residual_Acc": 86.99,
   "Residual_Child": 2.77,
-  "secondCar": 4.1,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.1,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Lesotho",
+  "Country": "Lesotho",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -1819,12 +1914,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Liberia",
+  "Country": "Liberia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.31,
   "Unacc_Living_In": 25.8,
@@ -1838,12 +1934,13 @@
   "Child": 2.96,
   "Residual_Acc": 57.24,
   "Residual_Child": 2.96,
-  "secondCar": 4.19,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.19,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Libya",
+  "Country": "Libya",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
@@ -1857,12 +1954,13 @@
   "Child": 0.3,
   "Residual_Acc": 52.89,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Lithuania",
+  "Country": "Lithuania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.04,
   "Unacc_Living_In": 11.55,
@@ -1876,12 +1974,13 @@
   "Child": 1,
   "Residual_Acc": 28.03,
   "Residual_Child": 1,
-  "secondCar": 3.28,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.28,
+  "OMMA_TF": 0.37,
+  "OMMA_TP": 0.43,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Luxembourg",
+  "Country": "Luxembourg",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.48,
   "Unacc_Living_In": 18.23,
@@ -1895,12 +1994,13 @@
   "Child": 2.12,
   "Residual_Acc": 40.05,
   "Residual_Child": 2.12,
-  "secondCar": 3.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.51,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Macedonia",
+  "Country": "Macedonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.82,
   "Unacc_Living_In": 5.64,
@@ -1914,12 +2014,13 @@
   "Child": 0.3,
   "Residual_Acc": 15.15,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Madagascar",
+  "Country": "Madagascar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.83,
   "Unacc_Living_In": 10.77,
@@ -1933,12 +2034,13 @@
   "Child": 0.3,
   "Residual_Acc": 33.66,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Malawi",
+  "Country": "Malawi",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.39,
   "Unacc_Living_In": 13.69,
@@ -1952,12 +2054,13 @@
   "Child": 0.74,
   "Residual_Acc": 36.98,
   "Residual_Child": 0.74,
-  "secondCar": 3.15,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.15,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Malaysia",
+  "Country": "Malaysia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.64,
   "Unacc_Living_In": 11.29,
@@ -1971,12 +2074,13 @@
   "Child": 1.67,
   "Residual_Acc": 26.46,
   "Residual_Child": 1.67,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": 1.69,
+  "OMMA_TP": 1.87,
+  "OMMA_CUR": "Ringgit"
  },
  {
-  "Location_1": "Maldives",
+  "Country": "Maldives",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.18,
   "Unacc_Living_In": 14.2,
@@ -1990,12 +2094,13 @@
   "Child": 1.76,
   "Residual_Acc": 30.44,
   "Residual_Child": 1.76,
-  "secondCar": 3.63,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.63,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Mali",
+  "Country": "Mali",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.39,
   "Unacc_Living_In": 30.33,
@@ -2009,12 +2114,13 @@
   "Child": 1.16,
   "Residual_Acc": 66.89,
   "Residual_Child": 1.16,
-  "secondCar": 3.35,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.35,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Malta",
+  "Country": "Malta",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
@@ -2028,12 +2134,13 @@
   "Child": 0.93,
   "Residual_Acc": 22.39,
   "Residual_Child": 0.93,
-  "secondCar": 3.25,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.25,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Martinique",
+  "Country": "Martinique",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.55,
   "Unacc_Living_In": 22.75,
@@ -2047,12 +2154,13 @@
   "Child": 2.39,
   "Residual_Acc": 52.23,
   "Residual_Child": 2.39,
-  "secondCar": 3.93,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.93,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Mauritania",
+  "Country": "Mauritania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.47,
   "Unacc_Living_In": 15.66,
@@ -2066,12 +2174,13 @@
   "Child": 0.24,
   "Residual_Acc": 47.04,
   "Residual_Child": 0.24,
-  "secondCar": 2.92,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.92,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Mauritius",
+  "Country": "Mauritius",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.18,
   "Unacc_Living_In": 2.04,
@@ -2085,12 +2194,13 @@
   "Child": 0.08,
   "Residual_Acc": 5.69,
   "Residual_Child": 0.08,
-  "secondCar": 2.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.85,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Mexico",
+  "Country": "Mexico",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.82,
   "Unacc_Living_In": 15.88,
@@ -2104,12 +2214,13 @@
   "Child": 1,
   "Residual_Acc": 41.72,
   "Residual_Child": 1,
-  "secondCar": 3.28,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.28,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Moldova",
+  "Country": "Moldova",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.95,
   "Unacc_Living_In": 7.01,
@@ -2123,12 +2234,13 @@
   "Child": 0.02,
   "Residual_Acc": 21.63,
   "Residual_Child": 0.02,
-  "secondCar": 2.82,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.82,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Mongolia",
+  "Country": "Mongolia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -2142,12 +2254,13 @@
   "Child": 0.3,
   "Residual_Acc": 4.28,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Montenegro",
+  "Country": "Montenegro",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.1,
   "Unacc_Living_In": 1.98,
@@ -2161,12 +2274,13 @@
   "Child": 0.08,
   "Residual_Acc": 3.92,
   "Residual_Child": 0.08,
-  "secondCar": 2.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.85,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Montserrat",
+  "Country": "Montserrat",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 67.44,
   "Unacc_Living_In": 43.16,
@@ -2180,12 +2294,13 @@
   "Child": 4.62,
   "Residual_Acc": 98.43,
   "Residual_Child": 4.62,
-  "secondCar": 4.97,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.97,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Morocco",
+  "Country": "Morocco",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.01,
   "Unacc_Living_In": 8.97,
@@ -2199,12 +2314,13 @@
   "Child": 0.41,
   "Residual_Acc": 24.76,
   "Residual_Child": 0.41,
-  "secondCar": 3.01,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.01,
+  "OMMA_TF": 4.38,
+  "OMMA_TP": 4.94,
+  "OMMA_CUR": "Dirhams"
  },
  {
-  "Location_1": "Mozambique",
+  "Country": "Mozambique",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.4,
   "Unacc_Living_In": 20.1,
@@ -2218,12 +2334,13 @@
   "Child": 0.97,
   "Residual_Acc": 55.2,
   "Residual_Child": 0.97,
-  "secondCar": 3.26,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.26,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Myanmar",
+  "Country": "Myanmar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.43,
   "Unacc_Living_In": 13.72,
@@ -2237,12 +2354,13 @@
   "Child": 0.3,
   "Residual_Acc": 42.85,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Namibia",
+  "Country": "Namibia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -2256,12 +2374,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Nepal",
+  "Country": "Nepal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.44,
   "Unacc_Living_In": 9.88,
@@ -2275,12 +2394,13 @@
   "Child": 0.9,
   "Residual_Acc": 26.85,
   "Residual_Child": 0.9,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 57.71,
+  "OMMA_CUR": "Rupee"
  },
  {
-  "Location_1": "Netherlands",
+  "Country": "Netherlands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.6,
   "Unacc_Living_In": 18.3,
@@ -2294,12 +2414,13 @@
   "Child": 2.47,
   "Residual_Acc": 39,
   "Residual_Child": 2.47,
-  "secondCar": 3.86,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.86,
+  "OMMA_TF": 0.44,
+  "OMMA_TP": 0.51,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Netherlands Antilles",
+  "Country": "Netherlands Antilles",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.08,
   "Unacc_Living_In": 19.25,
@@ -2313,12 +2434,13 @@
   "Child": 1.99,
   "Residual_Acc": 44.48,
   "Residual_Child": 1.99,
-  "secondCar": 3.74,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.74,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "New Caledonia",
+  "Country": "New Caledonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.41,
   "Unacc_Living_In": 31.62,
@@ -2332,12 +2454,13 @@
   "Child": 3.83,
   "Residual_Acc": 68.57,
   "Residual_Child": 3.83,
-  "secondCar": 4.61,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.61,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "New Zealand",
+  "Country": "New Zealand",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.84,
   "Unacc_Living_In": 17.18,
@@ -2351,12 +2474,13 @@
   "Child": 4.01,
   "Residual_Acc": 37.89,
   "Residual_Child": 4.01,
-  "secondCar": 3.75,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.75,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.8,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Nicaragua",
+  "Country": "Nicaragua",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 4.73,
   "Unacc_Living_In": 3.03,
@@ -2370,12 +2494,13 @@
   "Child": 0.12,
   "Residual_Acc": 8.52,
   "Residual_Child": 0.12,
-  "secondCar": 2.86,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.86,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Nigeria",
+  "Country": "Nigeria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.4,
   "Unacc_Living_In": 40.58,
@@ -2389,12 +2514,13 @@
   "Child": 3.42,
   "Residual_Acc": 99.84,
   "Residual_Child": 3.42,
-  "secondCar": 4.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Norway",
+  "Country": "Norway",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.18,
   "Unacc_Living_In": 29.56,
@@ -2408,12 +2534,13 @@
   "Child": 4.85,
   "Residual_Acc": 61.87,
   "Residual_Child": 4.85,
-  "secondCar": 4.45,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.45,
+  "OMMA_TF": 4.73,
+  "OMMA_TP": 4.78,
+  "OMMA_CUR": "Krone"
  },
  {
-  "Location_1": "Oman",
+  "Country": "Oman",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.28,
   "Unacc_Living_In": 26.42,
@@ -2427,12 +2554,13 @@
   "Child": 3.01,
   "Residual_Acc": 59.14,
   "Residual_Child": 3.01,
-  "secondCar": 3.7,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.7,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Pakistan",
+  "Country": "Pakistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
@@ -2446,12 +2574,13 @@
   "Child": 0.3,
   "Residual_Acc": 52.47,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Palestinian Territories",
+  "Country": "Palestinian Territories",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 54.05,
   "Unacc_Living_In": 34.59,
@@ -2465,12 +2594,13 @@
   "Child": 3.41,
   "Residual_Acc": 81.18,
   "Residual_Child": 3.41,
-  "secondCar": 4.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Panama",
+  "Country": "Panama",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.81,
   "Unacc_Living_In": 10.76,
@@ -2484,12 +2614,13 @@
   "Child": 1.09,
   "Residual_Acc": 25.07,
   "Residual_Child": 1.09,
-  "secondCar": 3.32,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.32,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Papua New Guinea",
+  "Country": "Papua New Guinea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 45.27,
   "Unacc_Living_In": 28.97,
@@ -2503,12 +2634,13 @@
   "Child": 2.39,
   "Residual_Acc": 71.7,
   "Residual_Child": 2.39,
-  "secondCar": 3.92,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.92,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Paraguay",
+  "Country": "Paraguay",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -2522,12 +2654,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Peru",
+  "Country": "Peru",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.01,
   "Unacc_Living_In": 7.69,
@@ -2541,12 +2674,13 @@
   "Child": 0.7,
   "Residual_Acc": 18.49,
   "Residual_Child": 0.7,
-  "secondCar": 3.14,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.14,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Philippines",
+  "Country": "Philippines",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
@@ -2560,12 +2694,13 @@
   "Child": 0.15,
   "Residual_Acc": 35.76,
   "Residual_Child": 0.15,
-  "secondCar": 2.88,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.88,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Pitcairn Islands",
+  "Country": "Pitcairn Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.83,
   "Unacc_Living_In": 4.37,
@@ -2579,12 +2714,13 @@
   "Child": 0.3,
   "Residual_Acc": 13.66,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Poland",
+  "Country": "Poland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.57,
   "Unacc_Living_In": 4.84,
@@ -2598,12 +2734,13 @@
   "Child": 1.62,
   "Residual_Acc": 8.79,
   "Residual_Child": 1.62,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": 1.89,
+  "OMMA_TP": 2.05,
+  "OMMA_CUR": "PLN"
  },
  {
-  "Location_1": "Portugal",
+  "Country": "Portugal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.1,
   "Unacc_Living_In": 12.86,
@@ -2617,12 +2754,13 @@
   "Child": 2.86,
   "Residual_Acc": 28.18,
   "Residual_Child": 2.86,
-  "secondCar": 3.43,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.43,
+  "OMMA_TF": 0.43,
+  "OMMA_TP": 0.47,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Puerto Rico",
+  "Country": "Puerto Rico",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.15,
   "Unacc_Living_In": 19.94,
@@ -2636,12 +2774,13 @@
   "Child": 2.23,
   "Residual_Acc": 44.7,
   "Residual_Child": 2.23,
-  "secondCar": 3.85,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.85,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Qatar",
+  "Country": "Qatar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.16,
   "Unacc_Living_In": 32.1,
@@ -2655,12 +2794,13 @@
   "Child": 2.87,
   "Residual_Acc": 69.57,
   "Residual_Child": 2.87,
-  "secondCar": 4.15,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.15,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Romania",
+  "Country": "Romania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.43,
   "Unacc_Living_In": 7.96,
@@ -2674,12 +2814,13 @@
   "Child": 1.74,
   "Residual_Acc": 16.91,
   "Residual_Child": 1.74,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 2.04,
+  "OMMA_CUR": "RON"
  },
  {
-  "Location_1": "Russia",
+  "Country": "Russia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.28,
   "Unacc_Living_In": 21.94,
@@ -2693,12 +2834,13 @@
   "Child": 1.3,
   "Residual_Acc": 57.73,
   "Residual_Child": 1.3,
-  "secondCar": 3.41,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.41,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Rwanda",
+  "Country": "Rwanda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.03,
   "Unacc_Living_In": 5.78,
@@ -2712,12 +2854,13 @@
   "Child": 0.01,
   "Residual_Acc": 18.02,
   "Residual_Child": 0.01,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Saudi Arabia",
+  "Country": "Saudi Arabia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.13,
   "Unacc_Living_In": 37.84,
@@ -2731,12 +2874,13 @@
   "Child": 3.82,
   "Residual_Acc": 90.21,
   "Residual_Child": 3.82,
-  "secondCar": 4.6,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.6,
+  "OMMA_TF": 1.87,
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Saudi Riyal"
  },
  {
-  "Location_1": "Senegal",
+  "Country": "Senegal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.39,
   "Unacc_Living_In": 27.13,
@@ -2750,12 +2894,13 @@
   "Child": 1.84,
   "Residual_Acc": 59.79,
   "Residual_Child": 1.84,
-  "secondCar": 3.67,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.67,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Serbia",
+  "Country": "Serbia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.88,
   "Unacc_Living_In": 8.24,
@@ -2769,12 +2914,13 @@
   "Child": 0.37,
   "Residual_Acc": 22.72,
   "Residual_Child": 0.37,
-  "secondCar": 2.99,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.99,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Seychelles",
+  "Country": "Seychelles",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.79,
   "Unacc_Living_In": 26.75,
@@ -2788,12 +2934,13 @@
   "Child": 2.75,
   "Residual_Acc": 61.85,
   "Residual_Child": 2.75,
-  "secondCar": 4.1,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.1,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Sierra Leone",
+  "Country": "Sierra Leone",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.33,
   "Unacc_Living_In": 10.45,
@@ -2807,12 +2954,13 @@
   "Child": 0.3,
   "Residual_Acc": 32.67,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Singapore",
+  "Country": "Singapore",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.03,
   "Unacc_Living_In": 39.7,
@@ -2826,12 +2974,13 @@
   "Child": 5.92,
   "Residual_Acc": 87.6,
   "Residual_Child": 5.92,
-  "secondCar": 4.66,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.66,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Slovakia",
+  "Country": "Slovakia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.28,
   "Unacc_Living_In": 12.98,
@@ -2845,12 +2994,13 @@
   "Child": 1.23,
   "Residual_Acc": 25.04,
   "Residual_Child": 1.23,
-  "secondCar": 3.38,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.38,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.45,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Slovenia",
+  "Country": "Slovenia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.84,
   "Unacc_Living_In": 10.78,
@@ -2864,12 +3014,13 @@
   "Child": 1.18,
   "Residual_Acc": 24.23,
   "Residual_Child": 1.18,
-  "secondCar": 3.36,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.36,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Solomon Islands",
+  "Country": "Solomon Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.39,
   "Unacc_Living_In": 29.69,
@@ -2883,12 +3034,13 @@
   "Child": 2.54,
   "Residual_Acc": 72.7,
   "Residual_Child": 2.54,
-  "secondCar": 4,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Somalia",
+  "Country": "Somalia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.12,
   "Unacc_Living_In": 20.56,
@@ -2902,12 +3054,13 @@
   "Child": 0.3,
   "Residual_Acc": 64.24,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "South Africa",
+  "Country": "South Africa",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.5,
   "Unacc_Living_In": 4.16,
@@ -2921,12 +3074,13 @@
   "Child": 0.3,
   "Residual_Acc": 13,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "South Sudan",
+  "Country": "South Sudan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.87,
   "Unacc_Living_In": 11.44,
@@ -2940,12 +3094,13 @@
   "Child": 1.17,
   "Residual_Acc": 26.51,
   "Residual_Child": 1.17,
-  "secondCar": 3.36,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.36,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Spain",
+  "Country": "Spain",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.05,
   "Unacc_Living_In": 13.47,
@@ -2959,12 +3114,13 @@
   "Child": 3.33,
   "Residual_Acc": 29.19,
   "Residual_Child": 3.33,
-  "secondCar": 3.44,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.44,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.46,
+  "OMMA_CUR": "Euro"
  },
  {
-  "Location_1": "Sri Lanka",
+  "Country": "Sri Lanka",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.6,
   "Unacc_Living_In": 11.9,
@@ -2978,12 +3134,13 @@
   "Child": 0.29,
   "Residual_Acc": 34.92,
   "Residual_Child": 0.29,
-  "secondCar": 2.95,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.95,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "St Helena",
+  "Country": "St Helena",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.63,
   "Unacc_Living_In": 14.48,
@@ -2997,12 +3154,13 @@
   "Child": 1.33,
   "Residual_Acc": 34.75,
   "Residual_Child": 1.33,
-  "secondCar": 3.43,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.43,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "St Kitts Nevis",
+  "Country": "St Kitts Nevis",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -3016,12 +3174,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "St Lucia",
+  "Country": "St Lucia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.38,
   "Unacc_Living_In": 25.84,
@@ -3035,12 +3194,13 @@
   "Child": 2.65,
   "Residual_Acc": 59.91,
   "Residual_Child": 2.65,
-  "secondCar": 4.05,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.05,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "St Vincent",
+  "Country": "St Vincent",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.01,
   "Unacc_Living_In": 19.85,
@@ -3054,12 +3214,13 @@
   "Child": 1.96,
   "Residual_Acc": 46.54,
   "Residual_Child": 1.96,
-  "secondCar": 3.73,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.73,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Sudan",
+  "Country": "Sudan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 39.9,
   "Unacc_Living_In": 25.54,
@@ -3073,12 +3234,13 @@
   "Child": 1.17,
   "Residual_Acc": 70.55,
   "Residual_Child": 1.17,
-  "secondCar": 3.36,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.36,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Swaziland",
+  "Country": "Swaziland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -3092,12 +3254,13 @@
   "Child": 0.3,
   "Residual_Acc": 6.46,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Sweden",
+  "Country": "Sweden",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.81,
   "Unacc_Living_In": 21.64,
@@ -3111,12 +3274,13 @@
   "Child": 2.56,
   "Residual_Acc": 47.3,
   "Residual_Child": 2.56,
-  "secondCar": 4.01,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.01,
+  "OMMA_TF": 4.77,
+  "OMMA_TP": 5.66,
+  "OMMA_CUR": "Krona"
  },
  {
-  "Location_1": "Switzerland",
+  "Country": "Switzerland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 76.33,
   "Unacc_Living_In": 48.85,
@@ -3130,12 +3294,13 @@
   "Child": 5.93,
   "Residual_Acc": 104.83,
   "Residual_Child": 5.93,
-  "secondCar": 5.59,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.59,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Syria",
+  "Country": "Syria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.54,
   "Unacc_Living_In": 12.51,
@@ -3149,12 +3314,13 @@
   "Child": 0.3,
   "Residual_Acc": 39.08,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Taiwan",
+  "Country": "Taiwan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.09,
   "Unacc_Living_In": 21.82,
@@ -3168,12 +3334,13 @@
   "Child": 2.59,
   "Residual_Acc": 47.75,
   "Residual_Child": 2.59,
-  "secondCar": 4.03,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.03,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Tajikistan",
+  "Country": "Tajikistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -3187,12 +3354,13 @@
   "Child": 0.3,
   "Residual_Acc": 4.28,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Tanzania",
+  "Country": "Tanzania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.99,
   "Unacc_Living_In": 17.27,
@@ -3206,12 +3374,13 @@
   "Child": 0.88,
   "Residual_Acc": 47.08,
   "Residual_Child": 0.88,
-  "secondCar": 3.22,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.22,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Thailand",
+  "Country": "Thailand",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.06,
   "Unacc_Living_In": 17.32,
@@ -3225,12 +3394,13 @@
   "Child": 1.47,
   "Residual_Acc": 42.52,
   "Residual_Child": 1.47,
-  "secondCar": 3.5,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.5,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Tonga",
+  "Country": "Tonga",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.23,
   "Unacc_Living_In": 7.19,
@@ -3244,12 +3414,13 @@
   "Child": 0.74,
   "Residual_Acc": 16.66,
   "Residual_Child": 0.74,
-  "secondCar": 3.15,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.15,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Trinidad",
+  "Country": "Trinidad",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.68,
   "Unacc_Living_In": 22.84,
@@ -3263,12 +3434,13 @@
   "Child": 2.02,
   "Residual_Acc": 55.41,
   "Residual_Child": 2.02,
-  "secondCar": 3.76,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.76,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Tristan Da Cunha",
+  "Country": "Tristan Da Cunha",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 36.32,
   "Unacc_Living_In": 23.24,
@@ -3282,12 +3454,13 @@
   "Child": 2.65,
   "Residual_Acc": 51.78,
   "Residual_Child": 2.65,
-  "secondCar": 4.05,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.05,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Tunisia",
+  "Country": "Tunisia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.37,
   "Unacc_Living_In": 9.2,
@@ -3301,12 +3474,13 @@
   "Child": 0.3,
   "Residual_Acc": 21.23,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Turkey",
+  "Country": "Turkey",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.64,
   "Unacc_Living_In": 7.45,
@@ -3320,12 +3494,13 @@
   "Child": 1.22,
   "Residual_Acc": 16.71,
   "Residual_Child": 1.22,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 4.15,
+  "OMMA_CUR": "Lire"
  },
  {
-  "Location_1": "Turkmenistan",
+  "Country": "Turkmenistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 226.41,
   "Unacc_Living_In": 144.9,
@@ -3339,12 +3514,13 @@
   "Child": 18.19,
   "Residual_Acc": 309.37,
   "Residual_Child": 18.19,
-  "secondCar": 11.33,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 11.33,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Turks & Caicos",
+  "Country": "Turks & Caicos",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 82.5,
   "Unacc_Living_In": 52.8,
@@ -3358,12 +3534,13 @@
   "Child": 5.98,
   "Residual_Acc": 117.89,
   "Residual_Child": 5.98,
-  "secondCar": 5.61,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 5.61,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "UAE",
+  "Country": "UAE",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.91,
   "Unacc_Living_In": 32.58,
@@ -3377,12 +3554,13 @@
   "Child": 4.62,
   "Residual_Acc": 74.45,
   "Residual_Child": 4.62,
-  "secondCar": 4.27,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.27,
+  "OMMA_TF": 1.8,
+  "OMMA_TP": 1.67,
+  "OMMA_CUR": "Dirham"
  },
  {
-  "Location_1": "Uganda",
+  "Country": "Uganda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.43,
   "Unacc_Living_In": 16.28,
@@ -3396,12 +3574,13 @@
   "Child": 0.71,
   "Residual_Acc": 45.27,
   "Residual_Child": 0.71,
-  "secondCar": 3.14,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.14,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Ukraine",
+  "Country": "Ukraine",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.56,
   "Unacc_Living_In": 13.8,
@@ -3415,12 +3594,13 @@
   "Child": 0.3,
   "Residual_Acc": 43,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Uruguay",
+  "Country": "Uruguay",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.61,
   "Unacc_Living_In": 22.79,
@@ -3434,12 +3614,13 @@
   "Child": 2.25,
   "Residual_Acc": 53.49,
   "Residual_Child": 2.25,
-  "secondCar": 3.86,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.86,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "West",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
@@ -3453,12 +3634,13 @@
   "Child": 3.34,
   "Residual_Acc": 48.77,
   "Residual_Child": 3.34,
-  "secondCar": 4.16,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.16,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "Midwest",
   "Unacc_Living_Out": 32.86,
   "Unacc_Living_In": 21.03,
@@ -3472,12 +3654,13 @@
   "Child": 3.13,
   "Residual_Acc": 44.85,
   "Residual_Child": 3.13,
-  "secondCar": 4.05,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.05,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "Northeast",
   "Unacc_Living_Out": 35.33,
   "Unacc_Living_In": 22.61,
@@ -3491,12 +3674,13 @@
   "Child": 3.25,
   "Residual_Acc": 48.18,
   "Residual_Child": 3.25,
-  "secondCar": 4.14,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.14,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "South",
   "Unacc_Living_Out": 40.12,
   "Unacc_Living_In": 25.68,
@@ -3510,12 +3694,13 @@
   "Child": 3.6,
   "Residual_Acc": 54.65,
   "Residual_Child": 3.6,
-  "secondCar": 4.33,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.33,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "Alaska",
   "Unacc_Living_Out": 36.34,
   "Unacc_Living_In": 23.26,
@@ -3529,12 +3714,13 @@
   "Child": 3.55,
   "Residual_Acc": 49.55,
   "Residual_Child": 3.55,
-  "secondCar": 4.18,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.18,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "USA",
+  "Country": "USA",
   "Sub_Location": "Hawaii",
   "Unacc_Living_Out": 54.14,
   "Unacc_Living_In": 34.65,
@@ -3548,12 +3734,13 @@
   "Child": 4.4,
   "Residual_Acc": 73.56,
   "Residual_Child": 4.4,
-  "secondCar": 4.87,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.87,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": 0.64,
+  "OMMA_CUR": "Dollar"
  },
  {
-  "Location_1": "Uzbekistan",
+  "Country": "Uzbekistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -3567,12 +3754,13 @@
   "Child": 0.3,
   "Residual_Acc": 4.28,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Uzbek Som"
  },
  {
-  "Location_1": "Vanuatu",
+  "Country": "Vanuatu",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.17,
   "Unacc_Living_In": 26.99,
@@ -3586,12 +3774,13 @@
   "Child": 2.72,
   "Residual_Acc": 62.9,
   "Residual_Child": 2.72,
-  "secondCar": 4.08,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 4.08,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Venezuela",
+  "Country": "Venezuela",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
@@ -3605,12 +3794,13 @@
   "Child": 0.93,
   "Residual_Acc": 22.39,
   "Residual_Child": 0.93,
-  "secondCar": 3.25,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.25,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Vietnam",
+  "Country": "Vietnam",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.35,
   "Unacc_Living_In": 9.82,
@@ -3624,12 +3814,13 @@
   "Child": 0.18,
   "Residual_Acc": 29.29,
   "Residual_Child": 0.18,
-  "secondCar": 2.89,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.89,
+  "OMMA_TF": "0 of type",
+  "OMMA_TP": "0 of type",
+  "OMMA_CUR": "Vietnamese Dong "
  },
  {
-  "Location_1": "Yemen",
+  "Country": "Yemen",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
@@ -3643,12 +3834,13 @@
   "Child": 0.3,
   "Residual_Acc": 52.89,
   "Residual_Child": 0.3,
-  "secondCar": 2.81,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 2.81,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Zambia",
+  "Country": "Zambia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.84,
   "Unacc_Living_In": 12.7,
@@ -3662,12 +3854,13 @@
   "Child": 0.58,
   "Residual_Acc": 35.12,
   "Residual_Child": 0.58,
-  "secondCar": 3.08,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.08,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  },
  {
-  "Location_1": "Zimbabwe",
+  "Country": "Zimbabwe",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.3,
   "Unacc_Living_In": 22.59,
@@ -3681,8 +3874,9 @@
   "Child": 1.61,
   "Residual_Acc": 57.88,
   "Residual_Child": 1.61,
-  "secondCar": 3.57,
-  "OMMA_TF": "no rate",
-  "OMMA_TP": "no rate"
+  "2nd_Car": 3.57,
+  "OMMA_TF": "0",
+  "OMMA_TP": "0",
+  "OMMA_CUR": "0"
  }
 ]
