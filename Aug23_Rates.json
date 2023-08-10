@@ -1,6 +1,6 @@
 [
  {
-  "Location 1 ": "Afghanistan",
+  "Location_1": "Afghanistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.77,
   "Unacc_Living_In": 20.33,
@@ -19,7 +19,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Albania",
+  "Location_1": "Albania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22,
   "Unacc_Living_In": 14.08,
@@ -38,7 +38,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Algeria",
+  "Location_1": "Algeria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.41,
   "Unacc_Living_In": 11.78,
@@ -57,7 +57,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Angola",
+  "Location_1": "Angola",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.86,
   "Unacc_Living_In": 33.19,
@@ -76,7 +76,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Anguilla",
+  "Location_1": "Anguilla",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.51,
   "Unacc_Living_In": 32.33,
@@ -95,7 +95,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Antigua & Barbuda",
+  "Location_1": "Antigua & Barbuda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.98,
   "Unacc_Living_In": 31.99,
@@ -114,7 +114,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Argentina",
+  "Location_1": "Argentina",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.78,
   "Unacc_Living_In": 17.78,
@@ -133,7 +133,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Armenia",
+  "Location_1": "Armenia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.27,
   "Unacc_Living_In": 18.73,
@@ -152,7 +152,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ascension Island",
+  "Location_1": "Ascension Island",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.5,
   "Unacc_Living_In": 25.92,
@@ -171,7 +171,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Australia",
+  "Location_1": "Australia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.16,
   "Unacc_Living_In": 20.58,
@@ -190,7 +190,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Austria",
+  "Location_1": "Austria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.44,
   "Unacc_Living_In": 18.84,
@@ -209,7 +209,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Azerbaijan",
+  "Location_1": "Azerbaijan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
@@ -228,7 +228,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bahamas",
+  "Location_1": "Bahamas",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 57.57,
   "Unacc_Living_In": 36.84,
@@ -247,7 +247,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bahrain",
+  "Location_1": "Bahrain",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.06,
   "Unacc_Living_In": 29.48,
@@ -266,7 +266,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bangladesh",
+  "Location_1": "Bangladesh",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.36,
   "Unacc_Living_In": 19.43,
@@ -285,7 +285,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Barbados",
+  "Location_1": "Barbados",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.92,
   "Unacc_Living_In": 31.31,
@@ -304,7 +304,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Belarus",
+  "Location_1": "Belarus",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 13.26,
   "Unacc_Living_In": 8.49,
@@ -323,7 +323,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Belgium",
+  "Location_1": "Belgium",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
@@ -342,7 +342,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Belize",
+  "Location_1": "Belize",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.1,
   "Unacc_Living_In": 21.18,
@@ -361,7 +361,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bermuda",
+  "Location_1": "Bermuda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 77.99,
   "Unacc_Living_In": 49.91,
@@ -380,7 +380,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bolivia",
+  "Location_1": "Bolivia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -399,7 +399,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bosnia",
+  "Location_1": "Bosnia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.99,
   "Unacc_Living_In": 5.11,
@@ -418,7 +418,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Botswana",
+  "Location_1": "Botswana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.15,
   "Unacc_Living_In": 3.94,
@@ -437,7 +437,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Brazil",
+  "Location_1": "Brazil",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.39,
   "Unacc_Living_In": 10.49,
@@ -456,7 +456,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "British Virgin Islands",
+  "Location_1": "British Virgin Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.89,
   "Unacc_Living_In": 38.33,
@@ -475,7 +475,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Brunei",
+  "Location_1": "Brunei",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 12.1,
@@ -494,7 +494,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Bulgaria",
+  "Location_1": "Bulgaria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.25,
   "Unacc_Living_In": 5.92,
@@ -513,7 +513,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cambodia",
+  "Location_1": "Cambodia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.81,
   "Unacc_Living_In": 17.8,
@@ -532,7 +532,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cameroon",
+  "Location_1": "Cameroon",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.93,
   "Unacc_Living_In": 33.88,
@@ -551,7 +551,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Canada",
+  "Location_1": "Canada",
   "Sub_Location": "East",
   "Unacc_Living_Out": 36.61,
   "Unacc_Living_In": 24.43,
@@ -570,7 +570,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Canada",
+  "Location_1": "Canada",
   "Sub_Location": "West",
   "Unacc_Living_Out": 32.61,
   "Unacc_Living_In": 21.65,
@@ -589,7 +589,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cape Verde",
+  "Location_1": "Cape Verde",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.18,
   "Unacc_Living_In": 5.24,
@@ -608,7 +608,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cayman Islands",
+  "Location_1": "Cayman Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 73.22,
   "Unacc_Living_In": 46.86,
@@ -627,7 +627,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Chad",
+  "Location_1": "Chad",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.31,
   "Unacc_Living_In": 30.28,
@@ -646,7 +646,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Chile",
+  "Location_1": "Chile",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.84,
   "Unacc_Living_In": 14.62,
@@ -665,7 +665,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "China",
+  "Location_1": "China",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.8,
   "Unacc_Living_In": 33.79,
@@ -684,7 +684,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Columbia",
+  "Location_1": "Columbia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.34,
   "Unacc_Living_In": 7.9,
@@ -703,7 +703,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Congo DR",
+  "Location_1": "Congo DR",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.7,
   "Unacc_Living_In": 40.77,
@@ -722,7 +722,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Costa Rica",
+  "Location_1": "Costa Rica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.76,
   "Unacc_Living_In": 22.25,
@@ -741,7 +741,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Croatia",
+  "Location_1": "Croatia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.99,
   "Unacc_Living_In": 4.47,
@@ -760,7 +760,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cuba",
+  "Location_1": "Cuba",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.91,
   "Unacc_Living_In": 19.14,
@@ -779,7 +779,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Cyprus",
+  "Location_1": "Cyprus",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.01,
   "Unacc_Living_In": 12.17,
@@ -798,7 +798,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Czech Republic",
+  "Location_1": "Czech Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.57,
   "Unacc_Living_In": 13.8,
@@ -817,7 +817,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Denmark",
+  "Location_1": "Denmark",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.85,
   "Unacc_Living_In": 31.26,
@@ -836,7 +836,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Djibouti",
+  "Location_1": "Djibouti",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.51,
   "Unacc_Living_In": 38.09,
@@ -855,7 +855,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Dominica",
+  "Location_1": "Dominica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -874,7 +874,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Dominican Republic",
+  "Location_1": "Dominican Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.04,
   "Unacc_Living_In": 8.99,
@@ -893,7 +893,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "East Timor",
+  "Location_1": "East Timor",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
@@ -912,7 +912,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ecuador",
+  "Location_1": "Ecuador",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.67,
   "Unacc_Living_In": 10.67,
@@ -931,7 +931,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Egypt",
+  "Location_1": "Egypt",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.59,
   "Unacc_Living_In": 11.26,
@@ -950,7 +950,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "El Salvador",
+  "Location_1": "El Salvador",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.38,
   "Unacc_Living_In": 6,
@@ -969,7 +969,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Eritrea",
+  "Location_1": "Eritrea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.23,
   "Unacc_Living_In": 25.75,
@@ -988,7 +988,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Estonia",
+  "Location_1": "Estonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.62,
   "Unacc_Living_In": 14.48,
@@ -1007,7 +1007,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ethiopia",
+  "Location_1": "Ethiopia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.8,
   "Unacc_Living_In": 26.75,
@@ -1026,7 +1026,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Falkland Islands",
+  "Location_1": "Falkland Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.07,
   "Unacc_Living_In": 32.04,
@@ -1045,7 +1045,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Fiji",
+  "Location_1": "Fiji",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.07,
   "Unacc_Living_In": 7.72,
@@ -1064,7 +1064,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Finland",
+  "Location_1": "Finland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.03,
   "Unacc_Living_In": 26.9,
@@ -1083,7 +1083,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "France",
+  "Location_1": "France",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.98,
   "Unacc_Living_In": 16.63,
@@ -1102,7 +1102,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Gambia",
+  "Location_1": "Gambia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.41,
   "Unacc_Living_In": 7.3,
@@ -1121,7 +1121,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Georgia",
+  "Location_1": "Georgia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.73,
   "Unacc_Living_In": 13.27,
@@ -1140,7 +1140,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Germany",
+  "Location_1": "Germany",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26,
   "Unacc_Living_In": 16.64,
@@ -1159,7 +1159,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ghana",
+  "Location_1": "Ghana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.84,
   "Unacc_Living_In": 13.34,
@@ -1178,7 +1178,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Gibraltar",
+  "Location_1": "Gibraltar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.17,
   "Unacc_Living_In": 7.15,
@@ -1197,7 +1197,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Greece",
+  "Location_1": "Greece",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.07,
   "Unacc_Living_In": 20.52,
@@ -1216,7 +1216,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Grenada",
+  "Location_1": "Grenada",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.85,
   "Unacc_Living_In": 19.74,
@@ -1235,7 +1235,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Guam",
+  "Location_1": "Guam",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 43.1,
   "Unacc_Living_In": 27.58,
@@ -1254,7 +1254,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Guatemala",
+  "Location_1": "Guatemala",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.16,
   "Unacc_Living_In": 18.66,
@@ -1273,7 +1273,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Guinea",
+  "Location_1": "Guinea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.82,
   "Unacc_Living_In": 40.2,
@@ -1292,7 +1292,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Guyana",
+  "Location_1": "Guyana",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.39,
   "Unacc_Living_In": 9.85,
@@ -1311,7 +1311,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Honduras",
+  "Location_1": "Honduras",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 11.53,
@@ -1330,7 +1330,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Hong Kong",
+  "Location_1": "Hong Kong",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 69.01,
   "Unacc_Living_In": 44.17,
@@ -1349,7 +1349,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Hungary",
+  "Location_1": "Hungary",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.66,
   "Unacc_Living_In": 7.46,
@@ -1368,7 +1368,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Iceland",
+  "Location_1": "Iceland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.66,
   "Unacc_Living_In": 30.5,
@@ -1387,7 +1387,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "India",
+  "Location_1": "India",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.51,
   "Unacc_Living_In": 12.49,
@@ -1406,7 +1406,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Indonesia",
+  "Location_1": "Indonesia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
@@ -1425,7 +1425,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Iran",
+  "Location_1": "Iran",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -1444,7 +1444,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Iraq",
+  "Location_1": "Iraq",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 37.64,
   "Unacc_Living_In": 24.09,
@@ -1463,7 +1463,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Irish Republic",
+  "Location_1": "Irish Republic",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.92,
   "Unacc_Living_In": 17.23,
@@ -1482,7 +1482,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Israel",
+  "Location_1": "Israel",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.64,
   "Unacc_Living_In": 33.05,
@@ -1501,7 +1501,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Italy",
+  "Location_1": "Italy",
   "Sub_Location": "South",
   "Unacc_Living_Out": 28.09,
   "Unacc_Living_In": 17.98,
@@ -1520,7 +1520,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Italy",
+  "Location_1": "Italy",
   "Sub_Location": "North",
   "Unacc_Living_Out": 30.13,
   "Unacc_Living_In": 19.28,
@@ -1539,7 +1539,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ivory Coast",
+  "Location_1": "Ivory Coast",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.35,
   "Unacc_Living_In": 20.7,
@@ -1558,7 +1558,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Jamaica",
+  "Location_1": "Jamaica",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.76,
   "Unacc_Living_In": 17.13,
@@ -1577,7 +1577,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Japan",
+  "Location_1": "Japan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.85,
   "Unacc_Living_In": 22.3,
@@ -1596,7 +1596,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Jerusalem",
+  "Location_1": "Jerusalem",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 60.78,
   "Unacc_Living_In": 38.9,
@@ -1615,7 +1615,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Jordan",
+  "Location_1": "Jordan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.9,
   "Unacc_Living_In": 28.74,
@@ -1634,7 +1634,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kazakhstan",
+  "Location_1": "Kazakhstan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.56,
   "Unacc_Living_In": 8.04,
@@ -1653,7 +1653,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kenya",
+  "Location_1": "Kenya",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
@@ -1672,7 +1672,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kiribati",
+  "Location_1": "Kiribati",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.57,
   "Unacc_Living_In": 6.76,
@@ -1691,7 +1691,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Korea (South",
+  "Location_1": "Korea (South",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.66,
   "Unacc_Living_In": 26.02,
@@ -1710,7 +1710,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kosovo",
+  "Location_1": "Kosovo",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.54,
   "Unacc_Living_In": 7.39,
@@ -1729,7 +1729,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kuwait",
+  "Location_1": "Kuwait",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.04,
   "Unacc_Living_In": 28.19,
@@ -1748,7 +1748,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Kyrgyzstan",
+  "Location_1": "Kyrgyzstan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -1767,7 +1767,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Latvia",
+  "Location_1": "Latvia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.06,
   "Unacc_Living_In": 16.04,
@@ -1786,7 +1786,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Lebanon",
+  "Location_1": "Lebanon",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 70.3,
   "Unacc_Living_In": 44.99,
@@ -1805,7 +1805,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Lesotho",
+  "Location_1": "Lesotho",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -1824,7 +1824,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Liberia",
+  "Location_1": "Liberia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.31,
   "Unacc_Living_In": 25.8,
@@ -1843,7 +1843,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Libya",
+  "Location_1": "Libya",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
@@ -1862,7 +1862,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Lithuania",
+  "Location_1": "Lithuania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.04,
   "Unacc_Living_In": 11.55,
@@ -1881,7 +1881,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Luxembourg",
+  "Location_1": "Luxembourg",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.48,
   "Unacc_Living_In": 18.23,
@@ -1900,7 +1900,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Macedonia",
+  "Location_1": "Macedonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.82,
   "Unacc_Living_In": 5.64,
@@ -1919,7 +1919,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Madagascar",
+  "Location_1": "Madagascar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.83,
   "Unacc_Living_In": 10.77,
@@ -1938,7 +1938,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Malawi",
+  "Location_1": "Malawi",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.39,
   "Unacc_Living_In": 13.69,
@@ -1957,7 +1957,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Malaysia",
+  "Location_1": "Malaysia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.64,
   "Unacc_Living_In": 11.29,
@@ -1976,7 +1976,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Maldives",
+  "Location_1": "Maldives",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.18,
   "Unacc_Living_In": 14.2,
@@ -1995,7 +1995,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mali",
+  "Location_1": "Mali",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.39,
   "Unacc_Living_In": 30.33,
@@ -2014,7 +2014,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Malta",
+  "Location_1": "Malta",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
@@ -2033,7 +2033,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Martinique",
+  "Location_1": "Martinique",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.55,
   "Unacc_Living_In": 22.75,
@@ -2052,7 +2052,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mauritania",
+  "Location_1": "Mauritania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.47,
   "Unacc_Living_In": 15.66,
@@ -2071,7 +2071,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mauritius",
+  "Location_1": "Mauritius",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.18,
   "Unacc_Living_In": 2.04,
@@ -2090,7 +2090,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mexico",
+  "Location_1": "Mexico",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.82,
   "Unacc_Living_In": 15.88,
@@ -2109,7 +2109,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Moldova",
+  "Location_1": "Moldova",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.95,
   "Unacc_Living_In": 7.01,
@@ -2128,7 +2128,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mongolia",
+  "Location_1": "Mongolia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -2147,7 +2147,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Montenegro",
+  "Location_1": "Montenegro",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.1,
   "Unacc_Living_In": 1.98,
@@ -2166,7 +2166,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Montserrat",
+  "Location_1": "Montserrat",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 67.44,
   "Unacc_Living_In": 43.16,
@@ -2185,7 +2185,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Morocco",
+  "Location_1": "Morocco",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.01,
   "Unacc_Living_In": 8.97,
@@ -2204,7 +2204,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Mozambique",
+  "Location_1": "Mozambique",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.4,
   "Unacc_Living_In": 20.1,
@@ -2223,7 +2223,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Myanmar",
+  "Location_1": "Myanmar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.43,
   "Unacc_Living_In": 13.72,
@@ -2242,7 +2242,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Namibia",
+  "Location_1": "Namibia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -2261,7 +2261,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Nepal",
+  "Location_1": "Nepal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.44,
   "Unacc_Living_In": 9.88,
@@ -2280,7 +2280,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Netherlands",
+  "Location_1": "Netherlands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.6,
   "Unacc_Living_In": 18.3,
@@ -2299,7 +2299,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Netherlands Antilles",
+  "Location_1": "Netherlands Antilles",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.08,
   "Unacc_Living_In": 19.25,
@@ -2318,7 +2318,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "New Caledonia",
+  "Location_1": "New Caledonia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.41,
   "Unacc_Living_In": 31.62,
@@ -2337,7 +2337,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "New Zealand",
+  "Location_1": "New Zealand",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.84,
   "Unacc_Living_In": 17.18,
@@ -2356,7 +2356,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Nicaragua",
+  "Location_1": "Nicaragua",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 4.73,
   "Unacc_Living_In": 3.03,
@@ -2375,7 +2375,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Nigeria",
+  "Location_1": "Nigeria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.4,
   "Unacc_Living_In": 40.58,
@@ -2394,7 +2394,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Norway",
+  "Location_1": "Norway",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.18,
   "Unacc_Living_In": 29.56,
@@ -2413,7 +2413,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Oman",
+  "Location_1": "Oman",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.28,
   "Unacc_Living_In": 26.42,
@@ -2432,7 +2432,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Pakistan",
+  "Location_1": "Pakistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
@@ -2451,7 +2451,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Palestinian Territories",
+  "Location_1": "Palestinian Territories",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 54.05,
   "Unacc_Living_In": 34.59,
@@ -2470,7 +2470,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Panama",
+  "Location_1": "Panama",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.81,
   "Unacc_Living_In": 10.76,
@@ -2489,7 +2489,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Papua New Guinea",
+  "Location_1": "Papua New Guinea",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 45.27,
   "Unacc_Living_In": 28.97,
@@ -2508,7 +2508,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Paraguay",
+  "Location_1": "Paraguay",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -2527,7 +2527,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Peru",
+  "Location_1": "Peru",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.01,
   "Unacc_Living_In": 7.69,
@@ -2546,7 +2546,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Philippines",
+  "Location_1": "Philippines",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
@@ -2565,7 +2565,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Pitcairn Islands",
+  "Location_1": "Pitcairn Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.83,
   "Unacc_Living_In": 4.37,
@@ -2584,7 +2584,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Poland",
+  "Location_1": "Poland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.57,
   "Unacc_Living_In": 4.84,
@@ -2603,7 +2603,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Portugal",
+  "Location_1": "Portugal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.1,
   "Unacc_Living_In": 12.86,
@@ -2622,7 +2622,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Puerto Rico",
+  "Location_1": "Puerto Rico",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.15,
   "Unacc_Living_In": 19.94,
@@ -2641,7 +2641,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Qatar",
+  "Location_1": "Qatar",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.16,
   "Unacc_Living_In": 32.1,
@@ -2660,7 +2660,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Romania",
+  "Location_1": "Romania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.43,
   "Unacc_Living_In": 7.96,
@@ -2679,7 +2679,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Russia",
+  "Location_1": "Russia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.28,
   "Unacc_Living_In": 21.94,
@@ -2698,7 +2698,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Rwanda",
+  "Location_1": "Rwanda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.03,
   "Unacc_Living_In": 5.78,
@@ -2717,7 +2717,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Saudi Arabia",
+  "Location_1": "Saudi Arabia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.13,
   "Unacc_Living_In": 37.84,
@@ -2736,7 +2736,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Senegal",
+  "Location_1": "Senegal",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.39,
   "Unacc_Living_In": 27.13,
@@ -2755,7 +2755,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Serbia",
+  "Location_1": "Serbia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.88,
   "Unacc_Living_In": 8.24,
@@ -2774,7 +2774,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Seychelles",
+  "Location_1": "Seychelles",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.79,
   "Unacc_Living_In": 26.75,
@@ -2793,7 +2793,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Sierra Leone",
+  "Location_1": "Sierra Leone",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.33,
   "Unacc_Living_In": 10.45,
@@ -2812,7 +2812,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Singapore",
+  "Location_1": "Singapore",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.03,
   "Unacc_Living_In": 39.7,
@@ -2831,7 +2831,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Slovakia",
+  "Location_1": "Slovakia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.28,
   "Unacc_Living_In": 12.98,
@@ -2850,7 +2850,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Slovenia",
+  "Location_1": "Slovenia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.84,
   "Unacc_Living_In": 10.78,
@@ -2869,7 +2869,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Solomon Islands",
+  "Location_1": "Solomon Islands",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.39,
   "Unacc_Living_In": 29.69,
@@ -2888,7 +2888,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Somalia",
+  "Location_1": "Somalia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.12,
   "Unacc_Living_In": 20.56,
@@ -2907,7 +2907,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "South Africa",
+  "Location_1": "South Africa",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.5,
   "Unacc_Living_In": 4.16,
@@ -2926,7 +2926,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "South Sudan",
+  "Location_1": "South Sudan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.87,
   "Unacc_Living_In": 11.44,
@@ -2945,7 +2945,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Spain",
+  "Location_1": "Spain",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.05,
   "Unacc_Living_In": 13.47,
@@ -2964,7 +2964,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Sri Lanka",
+  "Location_1": "Sri Lanka",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.6,
   "Unacc_Living_In": 11.9,
@@ -2983,7 +2983,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "St Helena",
+  "Location_1": "St Helena",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.63,
   "Unacc_Living_In": 14.48,
@@ -3002,7 +3002,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "St Kitts Nevis",
+  "Location_1": "St Kitts Nevis",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -3021,7 +3021,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "St Lucia",
+  "Location_1": "St Lucia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.38,
   "Unacc_Living_In": 25.84,
@@ -3040,7 +3040,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "St Vincent",
+  "Location_1": "St Vincent",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.01,
   "Unacc_Living_In": 19.85,
@@ -3059,7 +3059,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Sudan",
+  "Location_1": "Sudan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 39.9,
   "Unacc_Living_In": 25.54,
@@ -3078,7 +3078,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Swaziland",
+  "Location_1": "Swaziland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
@@ -3097,7 +3097,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Sweden",
+  "Location_1": "Sweden",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.81,
   "Unacc_Living_In": 21.64,
@@ -3116,7 +3116,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Switzerland",
+  "Location_1": "Switzerland",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 76.33,
   "Unacc_Living_In": 48.85,
@@ -3135,7 +3135,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Syria",
+  "Location_1": "Syria",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.54,
   "Unacc_Living_In": 12.51,
@@ -3154,7 +3154,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Taiwan",
+  "Location_1": "Taiwan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.09,
   "Unacc_Living_In": 21.82,
@@ -3173,7 +3173,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Tajikistan",
+  "Location_1": "Tajikistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -3192,7 +3192,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Tanzania",
+  "Location_1": "Tanzania",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.99,
   "Unacc_Living_In": 17.27,
@@ -3211,7 +3211,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Thailand",
+  "Location_1": "Thailand",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.06,
   "Unacc_Living_In": 17.32,
@@ -3230,7 +3230,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Tonga",
+  "Location_1": "Tonga",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.23,
   "Unacc_Living_In": 7.19,
@@ -3249,7 +3249,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Trinidad",
+  "Location_1": "Trinidad",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.68,
   "Unacc_Living_In": 22.84,
@@ -3268,7 +3268,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Tristan Da Cunha",
+  "Location_1": "Tristan Da Cunha",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 36.32,
   "Unacc_Living_In": 23.24,
@@ -3287,7 +3287,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Tunisia",
+  "Location_1": "Tunisia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.37,
   "Unacc_Living_In": 9.2,
@@ -3306,7 +3306,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Turkey",
+  "Location_1": "Turkey",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.64,
   "Unacc_Living_In": 7.45,
@@ -3325,7 +3325,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Turkmenistan",
+  "Location_1": "Turkmenistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 226.41,
   "Unacc_Living_In": 144.9,
@@ -3344,7 +3344,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Turks & Caicos",
+  "Location_1": "Turks & Caicos",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 82.5,
   "Unacc_Living_In": 52.8,
@@ -3363,7 +3363,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "UAE",
+  "Location_1": "UAE",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.91,
   "Unacc_Living_In": 32.58,
@@ -3382,7 +3382,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Uganda",
+  "Location_1": "Uganda",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.43,
   "Unacc_Living_In": 16.28,
@@ -3401,7 +3401,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Ukraine",
+  "Location_1": "Ukraine",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.56,
   "Unacc_Living_In": 13.8,
@@ -3420,7 +3420,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Uruguay",
+  "Location_1": "Uruguay",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.61,
   "Unacc_Living_In": 22.79,
@@ -3439,7 +3439,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "West",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
@@ -3458,7 +3458,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "Midwest",
   "Unacc_Living_Out": 32.86,
   "Unacc_Living_In": 21.03,
@@ -3477,7 +3477,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "Northeast",
   "Unacc_Living_Out": 35.33,
   "Unacc_Living_In": 22.61,
@@ -3496,7 +3496,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "South",
   "Unacc_Living_Out": 40.12,
   "Unacc_Living_In": 25.68,
@@ -3515,7 +3515,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "Alaska",
   "Unacc_Living_Out": 36.34,
   "Unacc_Living_In": 23.26,
@@ -3534,7 +3534,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "USA",
+  "Location_1": "USA",
   "Sub_Location": "Hawaii",
   "Unacc_Living_Out": 54.14,
   "Unacc_Living_In": 34.65,
@@ -3553,7 +3553,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Uzbekistan",
+  "Location_1": "Uzbekistan",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
@@ -3572,7 +3572,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Vanuatu",
+  "Location_1": "Vanuatu",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.17,
   "Unacc_Living_In": 26.99,
@@ -3591,7 +3591,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Venezuela",
+  "Location_1": "Venezuela",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
@@ -3610,7 +3610,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Vietnam",
+  "Location_1": "Vietnam",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.35,
   "Unacc_Living_In": 9.82,
@@ -3629,7 +3629,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Yemen",
+  "Location_1": "Yemen",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
@@ -3648,7 +3648,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Zambia",
+  "Location_1": "Zambia",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.84,
   "Unacc_Living_In": 12.7,
@@ -3667,7 +3667,7 @@
   "OMMA_TP": "no rate"
  },
  {
-  "Location 1 ": "Zimbabwe",
+  "Location_1": "Zimbabwe",
   "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.3,
   "Unacc_Living_In": 22.59,
