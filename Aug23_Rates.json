@@ -1,7 +1,6 @@
 [
  {
   "Country": "Afghanistan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.77,
   "Unacc_Living_In": 20.33,
   "Temp_Duty": 17.16,
@@ -21,7 +20,6 @@
  },
  {
   "Country": "Albania",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22,
   "Unacc_Living_In": 14.08,
   "Temp_Duty": 11.88,
@@ -41,7 +39,6 @@
  },
  {
   "Country": "Algeria",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.41,
   "Unacc_Living_In": 11.78,
   "Temp_Duty": 9.94,
@@ -61,7 +58,6 @@
  },
  {
   "Country": "Angola",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.86,
   "Unacc_Living_In": 33.19,
   "Temp_Duty": 28,
@@ -81,7 +77,6 @@
  },
  {
   "Country": "Anguilla",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.51,
   "Unacc_Living_In": 32.33,
   "Temp_Duty": 27.28,
@@ -101,7 +96,6 @@
  },
  {
   "Country": "Antigua & Barbuda",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.98,
   "Unacc_Living_In": 31.99,
   "Temp_Duty": 26.99,
@@ -121,7 +115,6 @@
  },
  {
   "Country": "Argentina",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.78,
   "Unacc_Living_In": 17.78,
   "Temp_Duty": 15,
@@ -141,7 +134,6 @@
  },
  {
   "Country": "Armenia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.27,
   "Unacc_Living_In": 18.73,
   "Temp_Duty": 15.81,
@@ -161,7 +153,6 @@
  },
  {
   "Country": "Ascension Island",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.5,
   "Unacc_Living_In": 25.92,
   "Temp_Duty": 21.87,
@@ -181,7 +172,6 @@
  },
  {
   "Country": "Australia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.16,
   "Unacc_Living_In": 20.58,
   "Temp_Duty": 17.37,
@@ -201,7 +191,6 @@
  },
  {
   "Country": "Austria",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.44,
   "Unacc_Living_In": 18.84,
   "Temp_Duty": 15.9,
@@ -221,7 +210,6 @@
  },
  {
   "Country": "Azerbaijan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
   "Temp_Duty": 11.22,
@@ -241,7 +229,6 @@
  },
  {
   "Country": "Bahamas",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 57.57,
   "Unacc_Living_In": 36.84,
   "Temp_Duty": 31.09,
@@ -261,7 +248,6 @@
  },
  {
   "Country": "Bahrain",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.06,
   "Unacc_Living_In": 29.48,
   "Temp_Duty": 24.87,
@@ -281,7 +267,6 @@
  },
  {
   "Country": "Bangladesh",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.36,
   "Unacc_Living_In": 19.43,
   "Temp_Duty": 16.39,
@@ -301,7 +286,6 @@
  },
  {
   "Country": "Barbados",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.92,
   "Unacc_Living_In": 31.31,
   "Temp_Duty": 26.42,
@@ -321,7 +305,6 @@
  },
  {
   "Country": "Belarus",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 13.26,
   "Unacc_Living_In": 8.49,
   "Temp_Duty": 7.16,
@@ -341,7 +324,6 @@
  },
  {
   "Country": "Belgium",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
   "Temp_Duty": 15.89,
@@ -361,7 +343,6 @@
  },
  {
   "Country": "Belize",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.1,
   "Unacc_Living_In": 21.18,
   "Temp_Duty": 17.87,
@@ -381,7 +362,6 @@
  },
  {
   "Country": "Bermuda",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 77.99,
   "Unacc_Living_In": 49.91,
   "Temp_Duty": 42.11,
@@ -401,7 +381,6 @@
  },
  {
   "Country": "Bolivia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -421,7 +400,6 @@
  },
  {
   "Country": "Bosnia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.99,
   "Unacc_Living_In": 5.11,
   "Temp_Duty": 4.31,
@@ -441,7 +419,6 @@
  },
  {
   "Country": "Botswana",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.15,
   "Unacc_Living_In": 3.94,
   "Temp_Duty": 3.32,
@@ -461,7 +438,6 @@
  },
  {
   "Country": "Brazil",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.39,
   "Unacc_Living_In": 10.49,
   "Temp_Duty": 8.85,
@@ -481,7 +457,6 @@
  },
  {
   "Country": "British Virgin Islands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.89,
   "Unacc_Living_In": 38.33,
   "Temp_Duty": 32.34,
@@ -501,7 +476,6 @@
  },
  {
   "Country": "Brunei",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 12.1,
   "Temp_Duty": 9.73,
@@ -521,7 +495,6 @@
  },
  {
   "Country": "Bulgaria",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.25,
   "Unacc_Living_In": 5.92,
   "Temp_Duty": 5,
@@ -541,7 +514,6 @@
  },
  {
   "Country": "Cambodia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.81,
   "Unacc_Living_In": 17.8,
   "Temp_Duty": 15.02,
@@ -561,7 +533,6 @@
  },
  {
   "Country": "Cameroon",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.93,
   "Unacc_Living_In": 33.88,
   "Temp_Duty": 28.58,
@@ -580,8 +551,7 @@
   "OMMA_CUR": "XAF"
  },
  {
-  "Country": "Canada",
-  "Sub_Location": "East",
+  "Country": "Canada - East",
   "Unacc_Living_Out": 36.61,
   "Unacc_Living_In": 24.43,
   "Temp_Duty": 19.77,
@@ -600,8 +570,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "Canada",
-  "Sub_Location": "West",
+  "Country": "Canada - West",
   "Unacc_Living_Out": 32.61,
   "Unacc_Living_In": 21.65,
   "Temp_Duty": 17.61,
@@ -621,7 +590,6 @@
  },
  {
   "Country": "Cape Verde",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.18,
   "Unacc_Living_In": 5.24,
   "Temp_Duty": 4.42,
@@ -641,7 +609,6 @@
  },
  {
   "Country": "Cayman Islands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 73.22,
   "Unacc_Living_In": 46.86,
   "Temp_Duty": 39.54,
@@ -661,7 +628,6 @@
  },
  {
   "Country": "Chad",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.31,
   "Unacc_Living_In": 30.28,
   "Temp_Duty": 25.55,
@@ -681,7 +647,6 @@
  },
  {
   "Country": "Chile",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.84,
   "Unacc_Living_In": 14.62,
   "Temp_Duty": 12.33,
@@ -701,7 +666,6 @@
  },
  {
   "Country": "China",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 52.8,
   "Unacc_Living_In": 33.79,
   "Temp_Duty": 28.51,
@@ -721,7 +685,6 @@
  },
  {
   "Country": "Columbia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.34,
   "Unacc_Living_In": 7.9,
   "Temp_Duty": 6.66,
@@ -741,7 +704,6 @@
  },
  {
   "Country": "Congo DR",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.7,
   "Unacc_Living_In": 40.77,
   "Temp_Duty": 34.4,
@@ -761,7 +723,6 @@
  },
  {
   "Country": "Costa Rica",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.76,
   "Unacc_Living_In": 22.25,
   "Temp_Duty": 18.77,
@@ -781,7 +742,6 @@
  },
  {
   "Country": "Croatia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.99,
   "Unacc_Living_In": 4.47,
   "Temp_Duty": 3.77,
@@ -801,7 +761,6 @@
  },
  {
   "Country": "Cuba",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.91,
   "Unacc_Living_In": 19.14,
   "Temp_Duty": 16.15,
@@ -821,7 +780,6 @@
  },
  {
   "Country": "Cyprus",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.01,
   "Unacc_Living_In": 12.17,
   "Temp_Duty": 10.27,
@@ -841,7 +799,6 @@
  },
  {
   "Country": "Czech Republic",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.57,
   "Unacc_Living_In": 13.8,
   "Temp_Duty": 11.65,
@@ -861,7 +818,6 @@
  },
  {
   "Country": "Denmark",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 48.85,
   "Unacc_Living_In": 31.26,
   "Temp_Duty": 26.38,
@@ -881,7 +837,6 @@
  },
  {
   "Country": "Djibouti",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.51,
   "Unacc_Living_In": 38.09,
   "Temp_Duty": 32.14,
@@ -901,7 +856,6 @@
  },
  {
   "Country": "Dominica",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -921,7 +875,6 @@
  },
  {
   "Country": "Dominican Republic",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.04,
   "Unacc_Living_In": 8.99,
   "Temp_Duty": 7.58,
@@ -941,7 +894,6 @@
  },
  {
   "Country": "East Timor",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.78,
   "Unacc_Living_In": 13.3,
   "Temp_Duty": 11.22,
@@ -961,7 +913,6 @@
  },
  {
   "Country": "Ecuador",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.67,
   "Unacc_Living_In": 10.67,
   "Temp_Duty": 9,
@@ -981,7 +932,6 @@
  },
  {
   "Country": "Egypt",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.59,
   "Unacc_Living_In": 11.26,
   "Temp_Duty": 9.5,
@@ -1001,7 +951,6 @@
  },
  {
   "Country": "El Salvador",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.38,
   "Unacc_Living_In": 6,
   "Temp_Duty": 5.07,
@@ -1021,7 +970,6 @@
  },
  {
   "Country": "Eritrea",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.23,
   "Unacc_Living_In": 25.75,
   "Temp_Duty": 21.72,
@@ -1041,7 +989,6 @@
  },
  {
   "Country": "Estonia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.62,
   "Unacc_Living_In": 14.48,
   "Temp_Duty": 12.21,
@@ -1061,7 +1008,6 @@
  },
  {
   "Country": "Ethiopia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.8,
   "Unacc_Living_In": 26.75,
   "Temp_Duty": 22.57,
@@ -1081,7 +1027,6 @@
  },
  {
   "Country": "Falkland Islands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.07,
   "Unacc_Living_In": 32.04,
   "Temp_Duty": 27.04,
@@ -1101,7 +1046,6 @@
  },
  {
   "Country": "Fiji",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.07,
   "Unacc_Living_In": 7.72,
   "Temp_Duty": 6.52,
@@ -1121,7 +1065,6 @@
  },
  {
   "Country": "Finland",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.03,
   "Unacc_Living_In": 26.9,
   "Temp_Duty": 22.7,
@@ -1141,7 +1084,6 @@
  },
  {
   "Country": "France",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.98,
   "Unacc_Living_In": 16.63,
   "Temp_Duty": 14.03,
@@ -1161,7 +1103,6 @@
  },
  {
   "Country": "Gambia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.41,
   "Unacc_Living_In": 7.3,
   "Temp_Duty": 6.16,
@@ -1181,7 +1122,6 @@
  },
  {
   "Country": "Georgia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.73,
   "Unacc_Living_In": 13.27,
   "Temp_Duty": 11.19,
@@ -1201,7 +1141,6 @@
  },
  {
   "Country": "Germany",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26,
   "Unacc_Living_In": 16.64,
   "Temp_Duty": 14.04,
@@ -1221,7 +1160,6 @@
  },
  {
   "Country": "Ghana",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.84,
   "Unacc_Living_In": 13.34,
   "Temp_Duty": 11.25,
@@ -1241,7 +1179,6 @@
  },
  {
   "Country": "Gibraltar",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.17,
   "Unacc_Living_In": 7.15,
   "Temp_Duty": 6.03,
@@ -1261,7 +1198,6 @@
  },
  {
   "Country": "Greece",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.07,
   "Unacc_Living_In": 20.52,
   "Temp_Duty": 17.32,
@@ -1281,7 +1217,6 @@
  },
  {
   "Country": "Grenada",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.85,
   "Unacc_Living_In": 19.74,
   "Temp_Duty": 16.66,
@@ -1301,7 +1236,6 @@
  },
  {
   "Country": "Guam",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 43.1,
   "Unacc_Living_In": 27.58,
   "Temp_Duty": 23.27,
@@ -1321,7 +1255,6 @@
  },
  {
   "Country": "Guatemala",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.16,
   "Unacc_Living_In": 18.66,
   "Temp_Duty": 15.75,
@@ -1341,7 +1274,6 @@
  },
  {
   "Country": "Guinea",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.82,
   "Unacc_Living_In": 40.2,
   "Temp_Duty": 33.92,
@@ -1361,7 +1293,6 @@
  },
  {
   "Country": "Guyana",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.39,
   "Unacc_Living_In": 9.85,
   "Temp_Duty": 8.31,
@@ -1381,7 +1312,6 @@
  },
  {
   "Country": "Honduras",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.02,
   "Unacc_Living_In": 11.53,
   "Temp_Duty": 9.73,
@@ -1401,7 +1331,6 @@
  },
  {
   "Country": "Hong Kong",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 69.01,
   "Unacc_Living_In": 44.17,
   "Temp_Duty": 37.27,
@@ -1421,7 +1350,6 @@
  },
  {
   "Country": "Hungary",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.66,
   "Unacc_Living_In": 7.46,
   "Temp_Duty": 6.3,
@@ -1441,7 +1369,6 @@
  },
  {
   "Country": "Iceland",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.66,
   "Unacc_Living_In": 30.5,
   "Temp_Duty": 25.74,
@@ -1461,7 +1388,6 @@
  },
  {
   "Country": "India",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.51,
   "Unacc_Living_In": 12.49,
   "Temp_Duty": 10.54,
@@ -1481,7 +1407,6 @@
  },
  {
   "Country": "Indonesia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 29.43,
   "Unacc_Living_In": 18.84,
   "Temp_Duty": 15.89,
@@ -1501,7 +1426,6 @@
  },
  {
   "Country": "Iran",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
   "Temp_Duty": 1.16,
@@ -1521,7 +1445,6 @@
  },
  {
   "Country": "Iraq",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 37.64,
   "Unacc_Living_In": 24.09,
   "Temp_Duty": 20.33,
@@ -1541,7 +1464,6 @@
  },
  {
   "Country": "Irish Republic",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.92,
   "Unacc_Living_In": 17.23,
   "Temp_Duty": 14.54,
@@ -1561,7 +1483,6 @@
  },
  {
   "Country": "Israel",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 51.64,
   "Unacc_Living_In": 33.05,
   "Temp_Duty": 27.89,
@@ -1580,8 +1501,7 @@
   "OMMA_CUR": "0"
  },
  {
-  "Country": "Italy",
-  "Sub_Location": "South",
+  "Country": "Italy - South",
   "Unacc_Living_Out": 28.09,
   "Unacc_Living_In": 17.98,
   "Temp_Duty": 15.17,
@@ -1600,8 +1520,7 @@
   "OMMA_CUR": "Euro"
  },
  {
-  "Country": "Italy",
-  "Sub_Location": "North",
+  "Country": "Italy - North",
   "Unacc_Living_Out": 30.13,
   "Unacc_Living_In": 19.28,
   "Temp_Duty": 16.27,
@@ -1621,7 +1540,6 @@
  },
  {
   "Country": "Ivory Coast",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.35,
   "Unacc_Living_In": 20.7,
   "Temp_Duty": 17.47,
@@ -1641,7 +1559,6 @@
  },
  {
   "Country": "Jamaica",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.76,
   "Unacc_Living_In": 17.13,
   "Temp_Duty": 14.45,
@@ -1661,7 +1578,6 @@
  },
  {
   "Country": "Japan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.85,
   "Unacc_Living_In": 22.3,
   "Temp_Duty": 18.82,
@@ -1681,7 +1597,6 @@
  },
  {
   "Country": "Jerusalem",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 60.78,
   "Unacc_Living_In": 38.9,
   "Temp_Duty": 32.82,
@@ -1701,7 +1616,6 @@
  },
  {
   "Country": "Jordan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.9,
   "Unacc_Living_In": 28.74,
   "Temp_Duty": 24.25,
@@ -1721,7 +1635,6 @@
  },
  {
   "Country": "Kazakhstan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.56,
   "Unacc_Living_In": 8.04,
   "Temp_Duty": 6.78,
@@ -1741,7 +1654,6 @@
  },
  {
   "Country": "Kenya",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
   "Temp_Duty": 9.97,
@@ -1761,7 +1673,6 @@
  },
  {
   "Country": "Kiribati",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.57,
   "Unacc_Living_In": 6.76,
   "Temp_Duty": 5.71,
@@ -1780,8 +1691,7 @@
   "OMMA_CUR": "0"
  },
  {
-  "Country": "Korea (South",
-  "Sub_Location": "Single_Rate",
+  "Country": "Korea (South)",
   "Unacc_Living_Out": 40.66,
   "Unacc_Living_In": 26.02,
   "Temp_Duty": 21.96,
@@ -1801,7 +1711,6 @@
  },
  {
   "Country": "Kosovo",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.54,
   "Unacc_Living_In": 7.39,
   "Temp_Duty": 6.23,
@@ -1821,7 +1730,6 @@
  },
  {
   "Country": "Kuwait",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 44.04,
   "Unacc_Living_In": 28.19,
   "Temp_Duty": 23.78,
@@ -1841,7 +1749,6 @@
  },
  {
   "Country": "Kyrgyzstan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
   "Temp_Duty": 1.16,
@@ -1861,7 +1768,6 @@
  },
  {
   "Country": "Latvia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.06,
   "Unacc_Living_In": 16.04,
   "Temp_Duty": 13.53,
@@ -1881,7 +1787,6 @@
  },
  {
   "Country": "Lebanon",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 70.3,
   "Unacc_Living_In": 44.99,
   "Temp_Duty": 37.96,
@@ -1901,7 +1806,6 @@
  },
  {
   "Country": "Lesotho",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -1921,7 +1825,6 @@
  },
  {
   "Country": "Liberia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.31,
   "Unacc_Living_In": 25.8,
   "Temp_Duty": 21.77,
@@ -1941,7 +1844,6 @@
  },
  {
   "Country": "Libya",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
   "Temp_Duty": 14.28,
@@ -1961,7 +1863,6 @@
  },
  {
   "Country": "Lithuania",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.04,
   "Unacc_Living_In": 11.55,
   "Temp_Duty": 9.74,
@@ -1981,7 +1882,6 @@
  },
  {
   "Country": "Luxembourg",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.48,
   "Unacc_Living_In": 18.23,
   "Temp_Duty": 15.38,
@@ -2001,7 +1901,6 @@
  },
  {
   "Country": "Macedonia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 8.82,
   "Unacc_Living_In": 5.64,
   "Temp_Duty": 4.76,
@@ -2021,7 +1920,6 @@
  },
  {
   "Country": "Madagascar",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.83,
   "Unacc_Living_In": 10.77,
   "Temp_Duty": 9.09,
@@ -2041,7 +1939,6 @@
  },
  {
   "Country": "Malawi",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.39,
   "Unacc_Living_In": 13.69,
   "Temp_Duty": 11.55,
@@ -2061,7 +1958,6 @@
  },
  {
   "Country": "Malaysia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.64,
   "Unacc_Living_In": 11.29,
   "Temp_Duty": 9.53,
@@ -2081,7 +1977,6 @@
  },
  {
   "Country": "Maldives",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.18,
   "Unacc_Living_In": 14.2,
   "Temp_Duty": 11.98,
@@ -2101,7 +1996,6 @@
  },
  {
   "Country": "Mali",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 47.39,
   "Unacc_Living_In": 30.33,
   "Temp_Duty": 25.59,
@@ -2121,7 +2015,6 @@
  },
  {
   "Country": "Malta",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
   "Temp_Duty": 8.02,
@@ -2141,7 +2034,6 @@
  },
  {
   "Country": "Martinique",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.55,
   "Unacc_Living_In": 22.75,
   "Temp_Duty": 19.2,
@@ -2161,7 +2053,6 @@
  },
  {
   "Country": "Mauritania",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.47,
   "Unacc_Living_In": 15.66,
   "Temp_Duty": 13.21,
@@ -2181,7 +2072,6 @@
  },
  {
   "Country": "Mauritius",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.18,
   "Unacc_Living_In": 2.04,
   "Temp_Duty": 1.72,
@@ -2201,7 +2091,6 @@
  },
  {
   "Country": "Mexico",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 24.82,
   "Unacc_Living_In": 15.88,
   "Temp_Duty": 13.4,
@@ -2221,7 +2110,6 @@
  },
  {
   "Country": "Moldova",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 10.95,
   "Unacc_Living_In": 7.01,
   "Temp_Duty": 5.91,
@@ -2241,7 +2129,6 @@
  },
  {
   "Country": "Mongolia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
   "Temp_Duty": 1.16,
@@ -2261,7 +2148,6 @@
  },
  {
   "Country": "Montenegro",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.1,
   "Unacc_Living_In": 1.98,
   "Temp_Duty": 1.67,
@@ -2281,7 +2167,6 @@
  },
  {
   "Country": "Montserrat",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 67.44,
   "Unacc_Living_In": 43.16,
   "Temp_Duty": 36.42,
@@ -2301,7 +2186,6 @@
  },
  {
   "Country": "Morocco",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.01,
   "Unacc_Living_In": 8.97,
   "Temp_Duty": 7.57,
@@ -2321,7 +2205,6 @@
  },
  {
   "Country": "Mozambique",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.4,
   "Unacc_Living_In": 20.1,
   "Temp_Duty": 16.96,
@@ -2341,7 +2224,6 @@
  },
  {
   "Country": "Myanmar",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.43,
   "Unacc_Living_In": 13.72,
   "Temp_Duty": 11.57,
@@ -2361,7 +2243,6 @@
  },
  {
   "Country": "Namibia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -2381,7 +2262,6 @@
  },
  {
   "Country": "Nepal",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.44,
   "Unacc_Living_In": 9.88,
   "Temp_Duty": 8.34,
@@ -2401,7 +2281,6 @@
  },
  {
   "Country": "Netherlands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 28.6,
   "Unacc_Living_In": 18.3,
   "Temp_Duty": 15.44,
@@ -2421,7 +2300,6 @@
  },
  {
   "Country": "Netherlands Antilles",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 30.08,
   "Unacc_Living_In": 19.25,
   "Temp_Duty": 16.24,
@@ -2441,7 +2319,6 @@
  },
  {
   "Country": "New Caledonia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 49.41,
   "Unacc_Living_In": 31.62,
   "Temp_Duty": 26.68,
@@ -2461,7 +2338,6 @@
  },
  {
   "Country": "New Zealand",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.84,
   "Unacc_Living_In": 17.18,
   "Temp_Duty": 14.49,
@@ -2481,7 +2357,6 @@
  },
  {
   "Country": "Nicaragua",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 4.73,
   "Unacc_Living_In": 3.03,
   "Temp_Duty": 2.55,
@@ -2501,7 +2376,6 @@
  },
  {
   "Country": "Nigeria",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 63.4,
   "Unacc_Living_In": 40.58,
   "Temp_Duty": 34.24,
@@ -2521,7 +2395,6 @@
  },
  {
   "Country": "Norway",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.18,
   "Unacc_Living_In": 29.56,
   "Temp_Duty": 24.94,
@@ -2541,7 +2414,6 @@
  },
  {
   "Country": "Oman",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.28,
   "Unacc_Living_In": 26.42,
   "Temp_Duty": 22.29,
@@ -2561,7 +2433,6 @@
  },
  {
   "Country": "Pakistan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
   "Temp_Duty": 19.31,
@@ -2581,7 +2452,6 @@
  },
  {
   "Country": "Palestinian Territories",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 54.05,
   "Unacc_Living_In": 34.59,
   "Temp_Duty": 29.19,
@@ -2601,7 +2471,6 @@
  },
  {
   "Country": "Panama",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.81,
   "Unacc_Living_In": 10.76,
   "Temp_Duty": 9.08,
@@ -2621,7 +2490,6 @@
  },
  {
   "Country": "Papua New Guinea",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 45.27,
   "Unacc_Living_In": 28.97,
   "Temp_Duty": 24.45,
@@ -2641,7 +2509,6 @@
  },
  {
   "Country": "Paraguay",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -2661,7 +2528,6 @@
  },
  {
   "Country": "Peru",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.01,
   "Unacc_Living_In": 7.69,
   "Temp_Duty": 6.49,
@@ -2681,7 +2547,6 @@
  },
  {
   "Country": "Philippines",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.47,
   "Unacc_Living_In": 11.82,
   "Temp_Duty": 9.97,
@@ -2701,7 +2566,6 @@
  },
  {
   "Country": "Pitcairn Islands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.83,
   "Unacc_Living_In": 4.37,
   "Temp_Duty": 3.69,
@@ -2721,7 +2585,6 @@
  },
  {
   "Country": "Poland",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 7.57,
   "Unacc_Living_In": 4.84,
   "Temp_Duty": 4.09,
@@ -2741,7 +2604,6 @@
  },
  {
   "Country": "Portugal",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.1,
   "Unacc_Living_In": 12.86,
   "Temp_Duty": 10.85,
@@ -2761,7 +2623,6 @@
  },
  {
   "Country": "Puerto Rico",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.15,
   "Unacc_Living_In": 19.94,
   "Temp_Duty": 16.82,
@@ -2781,7 +2642,6 @@
  },
  {
   "Country": "Qatar",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.16,
   "Unacc_Living_In": 32.1,
   "Temp_Duty": 27.09,
@@ -2801,7 +2661,6 @@
  },
  {
   "Country": "Romania",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.43,
   "Unacc_Living_In": 7.96,
   "Temp_Duty": 6.71,
@@ -2821,7 +2680,6 @@
  },
  {
   "Country": "Russia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.28,
   "Unacc_Living_In": 21.94,
   "Temp_Duty": 18.51,
@@ -2841,7 +2699,6 @@
  },
  {
   "Country": "Rwanda",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 9.03,
   "Unacc_Living_In": 5.78,
   "Temp_Duty": 4.88,
@@ -2861,7 +2718,6 @@
  },
  {
   "Country": "Saudi Arabia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 59.13,
   "Unacc_Living_In": 37.84,
   "Temp_Duty": 31.93,
@@ -2881,7 +2737,6 @@
  },
  {
   "Country": "Senegal",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.39,
   "Unacc_Living_In": 27.13,
   "Temp_Duty": 22.89,
@@ -2901,7 +2756,6 @@
  },
  {
   "Country": "Serbia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 12.88,
   "Unacc_Living_In": 8.24,
   "Temp_Duty": 6.96,
@@ -2921,7 +2775,6 @@
  },
  {
   "Country": "Seychelles",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 41.79,
   "Unacc_Living_In": 26.75,
   "Temp_Duty": 22.57,
@@ -2941,7 +2794,6 @@
  },
  {
   "Country": "Sierra Leone",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.33,
   "Unacc_Living_In": 10.45,
   "Temp_Duty": 8.82,
@@ -2961,7 +2813,6 @@
  },
  {
   "Country": "Singapore",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 62.03,
   "Unacc_Living_In": 39.7,
   "Temp_Duty": 33.5,
@@ -2981,7 +2832,6 @@
  },
  {
   "Country": "Slovakia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 20.28,
   "Unacc_Living_In": 12.98,
   "Temp_Duty": 10.95,
@@ -3001,7 +2851,6 @@
  },
  {
   "Country": "Slovenia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 16.84,
   "Unacc_Living_In": 10.78,
   "Temp_Duty": 9.09,
@@ -3021,7 +2870,6 @@
  },
  {
   "Country": "Solomon Islands",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 46.39,
   "Unacc_Living_In": 29.69,
   "Temp_Duty": 25.05,
@@ -3041,7 +2889,6 @@
  },
  {
   "Country": "Somalia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 32.12,
   "Unacc_Living_In": 20.56,
   "Temp_Duty": 17.34,
@@ -3061,7 +2908,6 @@
  },
  {
   "Country": "South Africa",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 6.5,
   "Unacc_Living_In": 4.16,
   "Temp_Duty": 3.51,
@@ -3081,7 +2927,6 @@
  },
  {
   "Country": "South Sudan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 17.87,
   "Unacc_Living_In": 11.44,
   "Temp_Duty": 9.65,
@@ -3101,7 +2946,6 @@
  },
  {
   "Country": "Spain",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.05,
   "Unacc_Living_In": 13.47,
   "Temp_Duty": 11.37,
@@ -3121,7 +2965,6 @@
  },
  {
   "Country": "Sri Lanka",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 18.6,
   "Unacc_Living_In": 11.9,
   "Temp_Duty": 10.04,
@@ -3141,7 +2984,6 @@
  },
  {
   "Country": "St Helena",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 22.63,
   "Unacc_Living_In": 14.48,
   "Temp_Duty": 12.22,
@@ -3161,7 +3003,6 @@
  },
  {
   "Country": "St Kitts Nevis",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -3181,7 +3022,6 @@
  },
  {
   "Country": "St Lucia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 40.38,
   "Unacc_Living_In": 25.84,
   "Temp_Duty": 21.81,
@@ -3201,7 +3041,6 @@
  },
  {
   "Country": "St Vincent",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 31.01,
   "Unacc_Living_In": 19.85,
   "Temp_Duty": 16.75,
@@ -3221,7 +3060,6 @@
  },
  {
   "Country": "Sudan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 39.9,
   "Unacc_Living_In": 25.54,
   "Temp_Duty": 21.55,
@@ -3241,7 +3079,6 @@
  },
  {
   "Country": "Swaziland",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 3.23,
   "Unacc_Living_In": 2.07,
   "Temp_Duty": 1.74,
@@ -3261,7 +3098,6 @@
  },
  {
   "Country": "Sweden",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 33.81,
   "Unacc_Living_In": 21.64,
   "Temp_Duty": 18.26,
@@ -3281,7 +3117,6 @@
  },
  {
   "Country": "Switzerland",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 76.33,
   "Unacc_Living_In": 48.85,
   "Temp_Duty": 41.22,
@@ -3301,7 +3136,6 @@
  },
  {
   "Country": "Syria",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.54,
   "Unacc_Living_In": 12.51,
   "Temp_Duty": 10.55,
@@ -3321,7 +3155,6 @@
  },
  {
   "Country": "Taiwan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 34.09,
   "Unacc_Living_In": 21.82,
   "Temp_Duty": 18.41,
@@ -3341,7 +3174,6 @@
  },
  {
   "Country": "Tajikistan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
   "Temp_Duty": 1.16,
@@ -3361,7 +3193,6 @@
  },
  {
   "Country": "Tanzania",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.99,
   "Unacc_Living_In": 17.27,
   "Temp_Duty": 14.57,
@@ -3381,7 +3212,6 @@
  },
  {
   "Country": "Thailand",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 27.06,
   "Unacc_Living_In": 17.32,
   "Temp_Duty": 14.61,
@@ -3401,7 +3231,6 @@
  },
  {
   "Country": "Tonga",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.23,
   "Unacc_Living_In": 7.19,
   "Temp_Duty": 6.06,
@@ -3421,7 +3250,6 @@
  },
  {
   "Country": "Trinidad",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.68,
   "Unacc_Living_In": 22.84,
   "Temp_Duty": 19.27,
@@ -3441,7 +3269,6 @@
  },
  {
   "Country": "Tristan Da Cunha",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 36.32,
   "Unacc_Living_In": 23.24,
   "Temp_Duty": 19.61,
@@ -3461,7 +3288,6 @@
  },
  {
   "Country": "Tunisia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.37,
   "Unacc_Living_In": 9.2,
   "Temp_Duty": 7.76,
@@ -3481,7 +3307,6 @@
  },
  {
   "Country": "Turkey",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 11.64,
   "Unacc_Living_In": 7.45,
   "Temp_Duty": 6.29,
@@ -3501,7 +3326,6 @@
  },
  {
   "Country": "Turkmenistan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 226.41,
   "Unacc_Living_In": 144.9,
   "Temp_Duty": 122.26,
@@ -3521,7 +3345,6 @@
  },
  {
   "Country": "Turks & Caicos",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 82.5,
   "Unacc_Living_In": 52.8,
   "Temp_Duty": 44.55,
@@ -3541,7 +3364,6 @@
  },
  {
   "Country": "UAE",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 50.91,
   "Unacc_Living_In": 32.58,
   "Temp_Duty": 27.49,
@@ -3561,7 +3383,6 @@
  },
  {
   "Country": "Uganda",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 25.43,
   "Unacc_Living_In": 16.28,
   "Temp_Duty": 13.73,
@@ -3581,7 +3402,6 @@
  },
  {
   "Country": "Ukraine",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 21.56,
   "Unacc_Living_In": 13.8,
   "Temp_Duty": 11.64,
@@ -3601,7 +3421,6 @@
  },
  {
   "Country": "Uruguay",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.61,
   "Unacc_Living_In": 22.79,
   "Temp_Duty": 19.23,
@@ -3620,8 +3439,7 @@
   "OMMA_CUR": "0"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "West",
+  "Country": "USA - West",
   "Unacc_Living_Out": 35.76,
   "Unacc_Living_In": 22.89,
   "Temp_Duty": 19.31,
@@ -3640,8 +3458,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "Midwest",
+  "Country": "USA - Midwest",
   "Unacc_Living_Out": 32.86,
   "Unacc_Living_In": 21.03,
   "Temp_Duty": 17.74,
@@ -3660,8 +3477,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "Northeast",
+  "Country": "USA - Northeast",
   "Unacc_Living_Out": 35.33,
   "Unacc_Living_In": 22.61,
   "Temp_Duty": 19.08,
@@ -3680,8 +3496,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "South",
+  "Country": "USA - South",
   "Unacc_Living_Out": 40.12,
   "Unacc_Living_In": 25.68,
   "Temp_Duty": 21.66,
@@ -3700,8 +3515,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "Alaska",
+  "Country": "USA - Alaska",
   "Unacc_Living_Out": 36.34,
   "Unacc_Living_In": 23.26,
   "Temp_Duty": 19.62,
@@ -3720,8 +3534,7 @@
   "OMMA_CUR": "Dollar"
  },
  {
-  "Country": "USA",
-  "Sub_Location": "Hawaii",
+  "Country": "USA - Hawaii",
   "Unacc_Living_Out": 54.14,
   "Unacc_Living_In": 34.65,
   "Temp_Duty": 29.24,
@@ -3741,7 +3554,6 @@
  },
  {
   "Country": "Uzbekistan",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 2.14,
   "Unacc_Living_In": 1.37,
   "Temp_Duty": 1.16,
@@ -3761,7 +3573,6 @@
  },
  {
   "Country": "Vanuatu",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 42.17,
   "Unacc_Living_In": 26.99,
   "Temp_Duty": 22.77,
@@ -3781,7 +3592,6 @@
  },
  {
   "Country": "Venezuela",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 14.86,
   "Unacc_Living_In": 9.51,
   "Temp_Duty": 8.02,
@@ -3801,7 +3611,6 @@
  },
  {
   "Country": "Vietnam",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 15.35,
   "Unacc_Living_In": 9.82,
   "Temp_Duty": 8.29,
@@ -3821,7 +3630,6 @@
  },
  {
   "Country": "Yemen",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 26.44,
   "Unacc_Living_In": 16.92,
   "Temp_Duty": 14.28,
@@ -3841,7 +3649,6 @@
  },
  {
   "Country": "Zambia",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 19.84,
   "Unacc_Living_In": 12.7,
   "Temp_Duty": 10.71,
@@ -3861,7 +3668,6 @@
  },
  {
   "Country": "Zimbabwe",
-  "Sub_Location": "Single_Rate",
   "Unacc_Living_Out": 35.3,
   "Unacc_Living_In": 22.59,
   "Temp_Duty": 19.06,
