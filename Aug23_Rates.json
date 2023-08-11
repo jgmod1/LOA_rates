@@ -185,7 +185,7 @@
   "Residual_Accompanied": 44.33,
   "Residual_Child": 3.28,
   "Second_Car_Allowance": 3.82,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.76,
   "OMMA_Currency": "Dollar"
  },
@@ -204,7 +204,7 @@
   "Residual_Accompanied": 41.36,
   "Residual_Child": 2.2,
   "Second_Car_Allowance": 3.84,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
   "OMMA_Currency": "Euro"
  },
@@ -261,8 +261,8 @@
   "Residual_Accompanied": 68.41,
   "Residual_Child": 3.14,
   "Second_Car_Allowance": 4.28,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Dinar"
  },
  {
@@ -356,8 +356,8 @@
   "Residual_Accompanied": 46.49,
   "Residual_Child": 2.51,
   "Second_Car_Allowance": 3.43,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Belize Dollar"
  },
  {
@@ -451,7 +451,7 @@
   "Residual_Accompanied": 27.91,
   "Residual_Child": 0.62,
   "Second_Car_Allowance": 3.1,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 2.62,
   "OMMA_Currency": "R$"
  },
@@ -489,7 +489,7 @@
   "Residual_Accompanied": 23.89,
   "Residual_Child": 1.24,
   "Second_Car_Allowance": 2.85,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.65,
   "OMMA_Currency": "Dollar"
  },
@@ -546,8 +546,8 @@
   "Residual_Accompanied": 75.83,
   "Residual_Child": 2.22,
   "Second_Car_Allowance": 3.85,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "XAF"
  },
  {
@@ -565,7 +565,7 @@
   "Residual_Accompanied": 45.09,
   "Residual_Child": 3.31,
   "Second_Car_Allowance": 4,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.7,
   "OMMA_Currency": "Dollar"
  },
@@ -584,7 +584,7 @@
   "Residual_Accompanied": 39.43,
   "Residual_Child": 3.19,
   "Second_Car_Allowance": 3.84,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.7,
   "OMMA_Currency": "Dollar"
  },
@@ -660,7 +660,7 @@
   "Residual_Accompanied": 36.83,
   "Residual_Child": 1.12,
   "Second_Car_Allowance": 3.33,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 378,
   "OMMA_Currency": "Peso"
  },
@@ -679,7 +679,7 @@
   "Residual_Accompanied": 81.78,
   "Residual_Child": 3.02,
   "Second_Car_Allowance": 4.23,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 3.34,
   "OMMA_Currency": "Renminbi"
  },
@@ -793,7 +793,7 @@
   "Residual_Accompanied": 24.3,
   "Residual_Child": 1.84,
   "Second_Car_Allowance": 3.29,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
   "OMMA_Currency": "Euro"
  },
@@ -945,7 +945,7 @@
   "Residual_Accompanied": 35.19,
   "Residual_Child": 0.3,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 6.86,
   "OMMA_Currency": "EGP"
  },
@@ -1002,8 +1002,8 @@
   "Residual_Accompanied": 31.64,
   "Residual_Child": 3.24,
   "Second_Car_Allowance": 3.54,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Euro"
  },
  {
@@ -1097,7 +1097,7 @@
   "Residual_Accompanied": 33.13,
   "Residual_Child": 2.09,
   "Second_Car_Allowance": 3.59,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.51,
   "OMMA_Currency": "Euro"
  },
@@ -1192,7 +1192,7 @@
   "Residual_Accompanied": 13.8,
   "Residual_Child": 1.23,
   "Second_Car_Allowance": 3.17,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.4,
   "OMMA_Currency": "Pound Sterling"
  },
@@ -1211,7 +1211,7 @@
   "Residual_Accompanied": 48.71,
   "Residual_Child": 3.32,
   "Second_Car_Allowance": 3.69,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
   "OMMA_Currency": "Euro"
  },
@@ -1477,8 +1477,8 @@
   "Residual_Accompanied": 37.93,
   "Residual_Child": 2,
   "Second_Car_Allowance": 3.75,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Euro"
  },
  {
@@ -1667,8 +1667,8 @@
   "Residual_Accompanied": 34.88,
   "Residual_Child": 1.27,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Kenyan Shilling"
  },
  {
@@ -1781,8 +1781,8 @@
   "Residual_Accompanied": 35.2,
   "Residual_Child": 2.76,
   "Second_Car_Allowance": 3.46,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Euro"
  },
  {
@@ -1895,7 +1895,7 @@
   "Residual_Accompanied": 40.05,
   "Residual_Child": 2.12,
   "Second_Car_Allowance": 3.81,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.51,
   "OMMA_Currency": "Euro"
  },
@@ -2275,7 +2275,7 @@
   "Residual_Accompanied": 26.85,
   "Residual_Child": 0.9,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 57.71,
   "OMMA_Currency": "Rupee"
  },
@@ -2351,7 +2351,7 @@
   "Residual_Accompanied": 37.89,
   "Residual_Child": 4.01,
   "Second_Car_Allowance": 3.75,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.8,
   "OMMA_Currency": "Dollar"
  },
@@ -2674,7 +2674,7 @@
   "Residual_Accompanied": 16.91,
   "Residual_Child": 1.74,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 2.04,
   "OMMA_Currency": "RON"
  },
@@ -2732,7 +2732,7 @@
   "Residual_Child": 3.82,
   "Second_Car_Allowance": 4.6,
   "OMMA_Tax_Free": 1.87,
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Saudi Riyal"
  },
  {
@@ -2845,7 +2845,7 @@
   "Residual_Accompanied": 25.04,
   "Residual_Child": 1.23,
   "Second_Car_Allowance": 3.38,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.45,
   "OMMA_Currency": "Euro"
  },
@@ -2959,7 +2959,7 @@
   "Residual_Accompanied": 29.19,
   "Residual_Child": 3.33,
   "Second_Car_Allowance": 3.44,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.46,
   "OMMA_Currency": "Euro"
  },
@@ -3320,7 +3320,7 @@
   "Residual_Accompanied": 16.71,
   "Residual_Child": 1.22,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 4.15,
   "OMMA_Currency": "Lire"
  },
@@ -3453,7 +3453,7 @@
   "Residual_Accompanied": 48.77,
   "Residual_Child": 3.34,
   "Second_Car_Allowance": 4.16,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3472,7 +3472,7 @@
   "Residual_Accompanied": 44.85,
   "Residual_Child": 3.13,
   "Second_Car_Allowance": 4.05,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3491,7 +3491,7 @@
   "Residual_Accompanied": 48.18,
   "Residual_Child": 3.25,
   "Second_Car_Allowance": 4.14,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3510,7 +3510,7 @@
   "Residual_Accompanied": 54.65,
   "Residual_Child": 3.6,
   "Second_Car_Allowance": 4.33,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3529,7 +3529,7 @@
   "Residual_Accompanied": 49.55,
   "Residual_Child": 3.55,
   "Second_Car_Allowance": 4.18,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3548,7 +3548,7 @@
   "Residual_Accompanied": 73.56,
   "Residual_Child": 4.4,
   "Second_Car_Allowance": 4.87,
-  "OMMA_Tax_Free": "0 of type",
+  "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
   "OMMA_Currency": "Dollar"
  },
@@ -3567,8 +3567,8 @@
   "Residual_Accompanied": 4.28,
   "Residual_Child": 0.3,
   "Second_Car_Allowance": 2.81,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Uzbek Som"
  },
  {
@@ -3624,8 +3624,8 @@
   "Residual_Accompanied": 29.29,
   "Residual_Child": 0.18,
   "Second_Car_Allowance": 2.89,
-  "OMMA_Tax_Free": "0 of type",
-  "OMMA_Tax_Paid": "0 of type",
+  "OMMA_Tax_Free": "0",
+  "OMMA_Tax_Paid": "0",
   "OMMA_Currency": "Vietnamese Dong "
  },
  {
