@@ -16,8 +16,9 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
- },
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
+  },
  {
   "Country": "Albania",
   "Unaccompanied_Living_Out": 22,
@@ -35,7 +36,8 @@
   "Second_Car_Allowance": 3.19,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"
  },
  {
   "Country": "Algeria",
@@ -54,7 +56,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Angola",
@@ -73,7 +76,8 @@
   "Second_Car_Allowance": 4.63,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Anguilla",
@@ -92,7 +96,8 @@
   "Second_Car_Allowance": 4.58,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Antigua & Barbuda",
@@ -111,7 +116,8 @@
   "Second_Car_Allowance": 4.46,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"
  },
  {
   "Country": "Argentina",
@@ -130,8 +136,9 @@
   "Second_Car_Allowance": 3.61,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
- },
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"
+  },
  {
   "Country": "Armenia",
   "Unaccompanied_Living_Out": 29.27,
@@ -149,8 +156,9 @@
   "Second_Car_Allowance": 3.78,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
- },
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"
+  },
  {
   "Country": "Ascension Island",
   "Unaccompanied_Living_Out": 40.5,
@@ -168,7 +176,8 @@
   "Second_Car_Allowance": 4.05,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Australia",
@@ -187,7 +196,8 @@
   "Second_Car_Allowance": 3.82,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.76,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Austria",
@@ -206,7 +216,8 @@
   "Second_Car_Allowance": 3.84,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Azerbaijan",
@@ -225,7 +236,8 @@
   "Second_Car_Allowance": 3.52,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bahamas",
@@ -244,7 +256,8 @@
   "Second_Car_Allowance": 4.75,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bahrain",
@@ -263,7 +276,8 @@
   "Second_Car_Allowance": 4.28,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Dinar"
+  "OMMA_Currency": "Dinar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bangladesh",
@@ -282,7 +296,8 @@
   "Second_Car_Allowance": 3.04,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Barbados",
@@ -301,7 +316,8 @@
   "Second_Car_Allowance": 4.43,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Belarus",
@@ -320,7 +336,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Belgium",
@@ -339,7 +356,8 @@
   "Second_Car_Allowance": 3.88,
   "OMMA_Tax_Free": 0.48,
   "OMMA_Tax_Paid": 0.51,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Belize",
@@ -358,7 +376,8 @@
   "Second_Car_Allowance": 3.43,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Belize Dollar"
+  "OMMA_Currency": "Belize Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bermuda",
@@ -377,7 +396,8 @@
   "Second_Car_Allowance": 5.61,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bolivia",
@@ -396,7 +416,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bosnia",
@@ -415,7 +436,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": 0.82,
   "OMMA_Tax_Paid": 0.83,
-  "OMMA_Currency": "Marka"
+  "OMMA_Currency": "Marka",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Botswana",
@@ -434,7 +456,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Brazil",
@@ -453,7 +476,8 @@
   "Second_Car_Allowance": 3.1,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 2.62,
-  "OMMA_Currency": "R$"
+  "OMMA_Currency": "R$",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "British Virgin Islands",
@@ -472,7 +496,8 @@
   "Second_Car_Allowance": 4.86,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Brunei",
@@ -491,7 +516,8 @@
   "Second_Car_Allowance": 2.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.65,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Bulgaria",
@@ -510,7 +536,8 @@
   "Second_Car_Allowance": 2.89,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Cambodia",
@@ -529,7 +556,8 @@
   "Second_Car_Allowance": 3.29,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Cameroon",
@@ -548,7 +576,8 @@
   "Second_Car_Allowance": 3.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "XAF"
+  "OMMA_Currency": "XAF",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Canada - East",
@@ -567,7 +596,8 @@
   "Second_Car_Allowance": 4,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.7,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Canada - West",
@@ -586,7 +616,8 @@
   "Second_Car_Allowance": 3.84,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.7,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Cape Verde",
@@ -605,7 +636,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Cayman Islands",
@@ -624,7 +656,8 @@
   "Second_Car_Allowance": 5.37,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Chad",
@@ -643,7 +676,8 @@
   "Second_Car_Allowance": 3.68,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Chile",
@@ -662,7 +696,8 @@
   "Second_Car_Allowance": 3.33,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 378,
-  "OMMA_Currency": "Peso"
+  "OMMA_Currency": "Peso",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "China",
@@ -681,7 +716,8 @@
   "Second_Car_Allowance": 4.23,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 3.34,
-  "OMMA_Currency": "Renminbi"
+  "OMMA_Currency": "Renminbi",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Columbia",
@@ -700,7 +736,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Congo DR",
@@ -719,7 +756,8 @@
   "Second_Car_Allowance": 4.34,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Costa Rica",
@@ -738,7 +776,8 @@
   "Second_Car_Allowance": 3.99,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Croatia",
@@ -757,7 +796,8 @@
   "Second_Car_Allowance": 2.99,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Cuba",
@@ -776,7 +816,8 @@
   "Second_Car_Allowance": 3.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Cyprus",
@@ -795,7 +836,8 @@
   "Second_Car_Allowance": 3.29,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Czech Republic",
@@ -814,7 +856,8 @@
   "Second_Car_Allowance": 3.5,
   "OMMA_Tax_Free": 11.93,
   "OMMA_Tax_Paid": 12.29,
-  "OMMA_Currency": "Czech Koruna"
+  "OMMA_Currency": "Czech Koruna",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Denmark",
@@ -833,7 +876,8 @@
   "Second_Car_Allowance": 4.58,
   "OMMA_Tax_Free": 3.32,
   "OMMA_Tax_Paid": 3.82,
-  "OMMA_Currency": "Kroner"
+  "OMMA_Currency": "Kroner",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Djibouti",
@@ -852,7 +896,8 @@
   "Second_Car_Allowance": 4.32,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Dominica",
@@ -871,7 +916,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Dominican Republic",
@@ -890,7 +936,8 @@
   "Second_Car_Allowance": 3.22,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "East Timor",
@@ -909,7 +956,8 @@
   "Second_Car_Allowance": 3.52,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Ecuador",
@@ -928,7 +976,8 @@
   "Second_Car_Allowance": 3.31,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Egypt",
@@ -947,7 +996,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 6.86,
-  "OMMA_Currency": "EGP"
+  "OMMA_Currency": "EGP",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "El Salvador",
@@ -966,7 +1016,8 @@
   "Second_Car_Allowance": 3.04,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Eritrea",
@@ -985,7 +1036,8 @@
   "Second_Car_Allowance": 4.19,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Estonia",
@@ -1004,7 +1056,8 @@
   "Second_Car_Allowance": 3.54,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Ethiopia",
@@ -1023,7 +1076,8 @@
   "Second_Car_Allowance": 3.72,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Falkland Islands",
@@ -1042,7 +1096,8 @@
   "Second_Car_Allowance": 4.7,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Fiji",
@@ -1061,7 +1116,8 @@
   "Second_Car_Allowance": 2.89,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Finland",
@@ -1080,7 +1136,8 @@
   "Second_Car_Allowance": 4.32,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "France",
@@ -1099,7 +1156,8 @@
   "Second_Car_Allowance": 3.59,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.51,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Gambia",
@@ -1118,7 +1176,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Georgia",
@@ -1137,7 +1196,8 @@
   "Second_Car_Allowance": 3.23,
   "OMMA_Tax_Free": 1.4,
   "OMMA_Tax_Paid": 1.4,
-  "OMMA_Currency": "Lari Gel"
+  "OMMA_Currency": "Lari Gel",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Germany",
@@ -1156,7 +1216,8 @@
   "Second_Car_Allowance": 3.71,
   "OMMA_Tax_Free": 0.47,
   "OMMA_Tax_Paid": 0.49,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Ghana",
@@ -1175,7 +1236,8 @@
   "Second_Car_Allowance": 3.18,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Gibraltar",
@@ -1194,7 +1256,8 @@
   "Second_Car_Allowance": 3.17,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.4,
-  "OMMA_Currency": "Pound Sterling"
+  "OMMA_Currency": "Pound Sterling",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Greece",
@@ -1213,7 +1276,8 @@
   "Second_Car_Allowance": 3.69,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.49,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Grenada",
@@ -1232,7 +1296,8 @@
   "Second_Car_Allowance": 3.84,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Guam",
@@ -1251,7 +1316,8 @@
   "Second_Car_Allowance": 4.44,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Guatemala",
@@ -1270,7 +1336,8 @@
   "Second_Car_Allowance": 3.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Guinea",
@@ -1289,7 +1356,8 @@
   "Second_Car_Allowance": 5.04,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Guyana",
@@ -1308,7 +1376,8 @@
   "Second_Car_Allowance": 3.27,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Honduras",
@@ -1327,7 +1396,8 @@
   "Second_Car_Allowance": 3.36,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Hong Kong",
@@ -1346,7 +1416,8 @@
   "Second_Car_Allowance": 5.06,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Hungary",
@@ -1365,7 +1436,8 @@
   "Second_Car_Allowance": 3.16,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Iceland",
@@ -1384,7 +1456,8 @@
   "Second_Car_Allowance": 4.54,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "India",
@@ -1403,7 +1476,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": 37.1,
   "OMMA_Tax_Paid": 36.53,
-  "OMMA_Currency": "Indian Rupee"
+  "OMMA_Currency": "Indian Rupee",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Indonesia",
@@ -1422,7 +1496,8 @@
   "Second_Car_Allowance": 3.21,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Iran",
@@ -1441,7 +1516,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Iraq",
@@ -1460,7 +1536,8 @@
   "Second_Car_Allowance": 3.26,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Irish Republic",
@@ -1479,7 +1556,8 @@
   "Second_Car_Allowance": 3.75,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Israel",
@@ -1498,7 +1576,8 @@
   "Second_Car_Allowance": 4.53,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Italy - South",
@@ -1517,7 +1596,8 @@
   "Second_Car_Allowance": 3.51,
   "OMMA_Tax_Free": 0.41,
   "OMMA_Tax_Paid": 0.43,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Italy - North",
@@ -1536,7 +1616,8 @@
   "Second_Car_Allowance": 3.64,
   "OMMA_Tax_Free": 0.41,
   "OMMA_Tax_Paid": 0.43,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Ivory Coast",
@@ -1555,7 +1636,8 @@
   "Second_Car_Allowance": 3.9,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Jamaica",
@@ -1574,7 +1656,8 @@
   "Second_Car_Allowance": 3.47,
   "OMMA_Tax_Free": 75.35,
   "OMMA_Tax_Paid": 79.11,
-  "OMMA_Currency": "Jamaican Dollar"
+  "OMMA_Currency": "Jamaican Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Japan",
@@ -1593,7 +1676,8 @@
   "Second_Car_Allowance": 3.86,
   "OMMA_Tax_Free": 58.68,
   "OMMA_Tax_Paid": 64.94,
-  "OMMA_Currency": "Yen"
+  "OMMA_Currency": "Yen",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Jerusalem",
@@ -1612,7 +1696,8 @@
   "Second_Car_Allowance": 4.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Jordan",
@@ -1631,7 +1716,8 @@
   "Second_Car_Allowance": 3.98,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Kazakhstan",
@@ -1650,7 +1736,8 @@
   "Second_Car_Allowance": 2.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Kenya",
@@ -1669,7 +1756,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Kenyan Shilling"
+  "OMMA_Currency": "Kenyan Shilling",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Kiribati",
@@ -1688,7 +1776,8 @@
   "Second_Car_Allowance": 3.13,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Korea (South)",
@@ -1707,7 +1796,8 @@
   "Second_Car_Allowance": 3.97,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Kosovo",
@@ -1726,7 +1816,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Kuwait",
@@ -1745,7 +1836,8 @@
   "Second_Car_Allowance": 3.63,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Kyrgyzstan",
@@ -1764,7 +1856,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Latvia",
@@ -1783,7 +1876,8 @@
   "Second_Car_Allowance": 3.46,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Lebanon",
@@ -1802,7 +1896,8 @@
   "Second_Car_Allowance": 4.1,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Lesotho",
@@ -1821,7 +1916,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Liberia",
@@ -1840,7 +1936,8 @@
   "Second_Car_Allowance": 4.19,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Libya",
@@ -1859,7 +1956,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Lithuania",
@@ -1878,7 +1976,8 @@
   "Second_Car_Allowance": 3.28,
   "OMMA_Tax_Free": 0.37,
   "OMMA_Tax_Paid": 0.43,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Luxembourg",
@@ -1897,7 +1996,8 @@
   "Second_Car_Allowance": 3.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.51,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Macedonia",
@@ -1916,7 +2016,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Madagascar",
@@ -1935,7 +2036,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Malawi",
@@ -1954,7 +2056,8 @@
   "Second_Car_Allowance": 3.15,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Malaysia",
@@ -1973,7 +2076,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": 1.69,
   "OMMA_Tax_Paid": 1.87,
-  "OMMA_Currency": "Ringgit"
+  "OMMA_Currency": "Ringgit",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Maldives",
@@ -1992,7 +2096,8 @@
   "Second_Car_Allowance": 3.63,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Mali",
@@ -2011,7 +2116,8 @@
   "Second_Car_Allowance": 3.35,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Malta",
@@ -2030,7 +2136,8 @@
   "Second_Car_Allowance": 3.25,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Martinique",
@@ -2049,7 +2156,8 @@
   "Second_Car_Allowance": 3.93,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Mauritania",
@@ -2068,7 +2176,8 @@
   "Second_Car_Allowance": 2.92,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Mauritius",
@@ -2087,7 +2196,8 @@
   "Second_Car_Allowance": 2.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Mexico",
@@ -2106,7 +2216,8 @@
   "Second_Car_Allowance": 3.28,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Moldova",
@@ -2125,7 +2236,8 @@
   "Second_Car_Allowance": 2.82,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Mongolia",
@@ -2144,7 +2256,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Montenegro",
@@ -2163,7 +2276,8 @@
   "Second_Car_Allowance": 2.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Montserrat",
@@ -2182,7 +2296,8 @@
   "Second_Car_Allowance": 4.97,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Morocco",
@@ -2201,7 +2316,8 @@
   "Second_Car_Allowance": 3.01,
   "OMMA_Tax_Free": 4.38,
   "OMMA_Tax_Paid": 4.94,
-  "OMMA_Currency": "Dirhams"
+  "OMMA_Currency": "Dirhams",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Mozambique",
@@ -2220,7 +2336,8 @@
   "Second_Car_Allowance": 3.26,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Myanmar",
@@ -2239,7 +2356,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Namibia",
@@ -2258,7 +2376,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Nepal",
@@ -2277,7 +2396,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 57.71,
-  "OMMA_Currency": "Rupee"
+  "OMMA_Currency": "Rupee",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Netherlands",
@@ -2296,7 +2416,8 @@
   "Second_Car_Allowance": 3.86,
   "OMMA_Tax_Free": 0.44,
   "OMMA_Tax_Paid": 0.51,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Netherlands Antilles",
@@ -2315,7 +2436,8 @@
   "Second_Car_Allowance": 3.74,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "New Caledonia",
@@ -2334,7 +2456,8 @@
   "Second_Car_Allowance": 4.61,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "New Zealand",
@@ -2353,7 +2476,8 @@
   "Second_Car_Allowance": 3.75,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.8,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Nicaragua",
@@ -2372,7 +2496,8 @@
   "Second_Car_Allowance": 2.86,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Nigeria",
@@ -2391,7 +2516,8 @@
   "Second_Car_Allowance": 4.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Norway",
@@ -2410,7 +2536,8 @@
   "Second_Car_Allowance": 4.45,
   "OMMA_Tax_Free": 4.73,
   "OMMA_Tax_Paid": 4.78,
-  "OMMA_Currency": "Krone"
+  "OMMA_Currency": "Krone",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Oman",
@@ -2429,7 +2556,8 @@
   "Second_Car_Allowance": 3.7,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Pakistan",
@@ -2448,7 +2576,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Palestinian Territories",
@@ -2467,7 +2596,8 @@
   "Second_Car_Allowance": 4.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Panama",
@@ -2486,7 +2616,8 @@
   "Second_Car_Allowance": 3.32,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Papua New Guinea",
@@ -2505,7 +2636,8 @@
   "Second_Car_Allowance": 3.92,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Paraguay",
@@ -2524,7 +2656,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Peru",
@@ -2543,7 +2676,8 @@
   "Second_Car_Allowance": 3.14,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Philippines",
@@ -2562,7 +2696,8 @@
   "Second_Car_Allowance": 2.88,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Pitcairn Islands",
@@ -2581,7 +2716,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Poland",
@@ -2600,7 +2736,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": 1.89,
   "OMMA_Tax_Paid": 2.05,
-  "OMMA_Currency": "PLN"
+  "OMMA_Currency": "PLN",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Portugal",
@@ -2619,7 +2756,8 @@
   "Second_Car_Allowance": 3.43,
   "OMMA_Tax_Free": 0.43,
   "OMMA_Tax_Paid": 0.47,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Puerto Rico",
@@ -2638,7 +2776,8 @@
   "Second_Car_Allowance": 3.85,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Qatar",
@@ -2657,7 +2796,8 @@
   "Second_Car_Allowance": 4.15,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Romania",
@@ -2676,7 +2816,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 2.04,
-  "OMMA_Currency": "RON"
+  "OMMA_Currency": "RON",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Russia",
@@ -2695,7 +2836,8 @@
   "Second_Car_Allowance": 3.41,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Rwanda",
@@ -2714,7 +2856,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Saudi Arabia",
@@ -2733,7 +2876,8 @@
   "Second_Car_Allowance": 4.6,
   "OMMA_Tax_Free": 1.87,
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Saudi Riyal"
+  "OMMA_Currency": "Saudi Riyal",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Senegal",
@@ -2752,7 +2896,8 @@
   "Second_Car_Allowance": 3.67,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Serbia",
@@ -2771,7 +2916,8 @@
   "Second_Car_Allowance": 2.99,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Seychelles",
@@ -2790,7 +2936,8 @@
   "Second_Car_Allowance": 4.1,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Sierra Leone",
@@ -2809,7 +2956,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Singapore",
@@ -2828,7 +2976,8 @@
   "Second_Car_Allowance": 4.66,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Slovakia",
@@ -2847,7 +2996,8 @@
   "Second_Car_Allowance": 3.38,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.45,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Slovenia",
@@ -2866,7 +3016,8 @@
   "Second_Car_Allowance": 3.36,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Solomon Islands",
@@ -2885,7 +3036,8 @@
   "Second_Car_Allowance": 4,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Somalia",
@@ -2904,7 +3056,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "South Africa",
@@ -2923,7 +3076,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "South Sudan",
@@ -2942,7 +3096,8 @@
   "Second_Car_Allowance": 3.36,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Spain",
@@ -2961,7 +3116,8 @@
   "Second_Car_Allowance": 3.44,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.46,
-  "OMMA_Currency": "Euro"
+  "OMMA_Currency": "Euro",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Sri Lanka",
@@ -2980,7 +3136,8 @@
   "Second_Car_Allowance": 2.95,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "St Helena",
@@ -2999,7 +3156,8 @@
   "Second_Car_Allowance": 3.43,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "St Kitts Nevis",
@@ -3018,7 +3176,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "St Lucia",
@@ -3037,7 +3196,8 @@
   "Second_Car_Allowance": 4.05,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "St Vincent",
@@ -3056,7 +3216,8 @@
   "Second_Car_Allowance": 3.73,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Sudan",
@@ -3075,7 +3236,8 @@
   "Second_Car_Allowance": 3.36,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Swaziland",
@@ -3094,7 +3256,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Sweden",
@@ -3113,7 +3276,8 @@
   "Second_Car_Allowance": 4.01,
   "OMMA_Tax_Free": 4.77,
   "OMMA_Tax_Paid": 5.66,
-  "OMMA_Currency": "Krona"
+  "OMMA_Currency": "Krona",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Switzerland",
@@ -3132,7 +3296,8 @@
   "Second_Car_Allowance": 5.59,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Syria",
@@ -3151,7 +3316,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Taiwan",
@@ -3170,7 +3336,8 @@
   "Second_Car_Allowance": 4.03,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Tajikistan",
@@ -3189,7 +3356,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Tanzania",
@@ -3208,7 +3376,8 @@
   "Second_Car_Allowance": 3.22,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Thailand",
@@ -3227,7 +3396,8 @@
   "Second_Car_Allowance": 3.5,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Tonga",
@@ -3246,7 +3416,8 @@
   "Second_Car_Allowance": 3.15,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Trinidad",
@@ -3265,7 +3436,8 @@
   "Second_Car_Allowance": 3.76,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Tristan Da Cunha",
@@ -3284,7 +3456,8 @@
   "Second_Car_Allowance": 4.05,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "Tunisia",
@@ -3303,7 +3476,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Turkey",
@@ -3322,7 +3496,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 4.15,
-  "OMMA_Currency": "Lire"
+  "OMMA_Currency": "Lira",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Turkmenistan",
@@ -3341,7 +3516,8 @@
   "Second_Car_Allowance": 11.33,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Turks & Caicos",
@@ -3360,7 +3536,8 @@
   "Second_Car_Allowance": 5.61,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "UAE",
@@ -3379,7 +3556,8 @@
   "Second_Car_Allowance": 4.27,
   "OMMA_Tax_Free": 1.8,
   "OMMA_Tax_Paid": 1.67,
-  "OMMA_Currency": "Dirham"
+  "OMMA_Currency": "Dirham",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Uganda",
@@ -3398,7 +3576,8 @@
   "Second_Car_Allowance": 3.14,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Ukraine",
@@ -3417,7 +3596,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Uruguay",
@@ -3436,7 +3616,8 @@
   "Second_Car_Allowance": 3.86,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "USA - West",
@@ -3455,7 +3636,8 @@
   "Second_Car_Allowance": 4.16,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23" 
  },
  {
   "Country": "USA - Midwest",
@@ -3474,7 +3656,8 @@
   "Second_Car_Allowance": 4.05,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "USA - Northeast",
@@ -3493,7 +3676,8 @@
   "Second_Car_Allowance": 4.14,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "USA - South",
@@ -3512,7 +3696,8 @@
   "Second_Car_Allowance": 4.33,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "USA - Alaska",
@@ -3531,7 +3716,8 @@
   "Second_Car_Allowance": 4.18,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "USA - Hawaii",
@@ -3550,7 +3736,8 @@
   "Second_Car_Allowance": 4.87,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": 0.64,
-  "OMMA_Currency": "Dollar"
+  "OMMA_Currency": "Dollar",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Uzbekistan",
@@ -3569,7 +3756,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Uzbek Som"
+  "OMMA_Currency": "Uzbek Som",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Vanuatu",
@@ -3588,7 +3776,8 @@
   "Second_Car_Allowance": 4.08,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Venezuela",
@@ -3607,7 +3796,8 @@
   "Second_Car_Allowance": 3.25,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Vietnam",
@@ -3626,7 +3816,8 @@
   "Second_Car_Allowance": 2.89,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "Vietnamese Dong "
+  "OMMA_Currency": "Vietnamese Dong",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Yemen",
@@ -3645,7 +3836,8 @@
   "Second_Car_Allowance": 2.81,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Zambia",
@@ -3664,7 +3856,8 @@
   "Second_Car_Allowance": 3.08,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  },
  {
   "Country": "Zimbabwe",
@@ -3683,6 +3876,7 @@
   "Second_Car_Allowance": 3.57,
   "OMMA_Tax_Free": "0",
   "OMMA_Tax_Paid": "0",
-  "OMMA_Currency": "0"
+  "OMMA_Currency": "0",
+  "LOA_Period": "Valid Aug 23"  
  }
 ]
