@@ -1,6 +1,5 @@
-{
-	"date": "1 Aug 2023",
-	"Countries": [{
+[{
+
 			"Country": "Afghanistan",
 			"Unaccompanied_Living_Out": 31.77,
 			"Unaccompanied_Living_In": 20.33,
@@ -3687,4 +3686,4 @@
 			"OMMA_Currency": "0"
 		}
 	]
-}
+
