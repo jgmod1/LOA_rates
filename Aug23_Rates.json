@@ -1,4 +1,10 @@
 [{
+	"base": "GBP",
+	"period": {
+		"end": "2023-08-31",
+		"start": "2023-08-01"
+	},
+	"rates": [{
 
 			"Country": "Afghanistan",
 			"Unaccompanied_Living_Out": 31.77,
@@ -3686,4 +3692,4 @@
 			"OMMA_Currency": "0"
 		}
 	]
-
+}]
