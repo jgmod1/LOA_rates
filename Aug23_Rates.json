@@ -1,6 +1,11 @@
-[{
-		"Date": "August 2023"
-	}, {
+[
+{
+  "base": "GBP",
+  "period": {
+    "end": "2024-08-01",
+    "start": "2023-08-01"
+  },
+  "rates": {
   "Country": "Afghanistan",
   "Unaccompanied_Living_Out": 31.77,
   "Unaccompanied_Living_In": 20.33,
